@@ -336,13 +336,7 @@ def process_page(site_id, cate_id, page_url, url_xpath, content_xpath):
         process_post_content(url, content_xpath, site_id, cate_id)
     return True
 
-def process_data(config):
-    site_id = config["id"]
-    url_xpath = config["url_xpath"]
-    content_xpath = config["content_xpath"]
-    page_regex = config["page_regex"]
-    next_page_pattern = config["next_page_pattern"]
-    categories = config['categories']
+def process_data(site_id, url_xpath, content_xpath, page_regex, next_page_pattern, categories):
 
     for category in categories:
         cate_id = category["id"]
@@ -357,6 +351,14 @@ def process_data(config):
 if __name__ == '__main__':
 
     for config in SITE_CONFIGS:
-        thread = threading.Thread(target=process_data, args=(config))
+        site_id = config["id"]
+        url_xpath = config["url_xpath"]
+        content_xpath = config["content_xpath"]
+        page_regex = config["page_regex"]
+        next_page_pattern = config["next_page_pattern"]
+        categories = config['categories']
+        
+        thread = threading.Thread(target=process_data, args=(site_id, url_xpath, content_xpath, page_regex, next_page_pattern, categories))
         thread.start()
         print("Thread {} is running".format(thread.getName()))
+        time.sleep(1)

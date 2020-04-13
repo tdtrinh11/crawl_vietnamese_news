@@ -343,7 +343,7 @@ def process_data(site_id, url_xpath, content_xpath, page_regex, next_page_patter
         for url in category["urls"]:
             url = init_page_url(url, next_page_pattern)
             count = 0
-            while count < 300:
+            while count < 500:
                 count += 1
                 process_page(site_id, cate_id, url, url_xpath, content_xpath)
                 url = get_next_page_url(url, page_regex, next_page_pattern)
@@ -358,7 +358,8 @@ if __name__ == '__main__':
         next_page_pattern = config["next_page_pattern"]
         categories = config['categories']
         
-        thread = threading.Thread(target=process_data, args=(site_id, url_xpath, content_xpath, page_regex, next_page_pattern, categories))
-        thread.start()
-        print("Thread {} is running".format(thread.getName()))
-        time.sleep(1)
+        process_data(site_id, url_xpath, content_xpath, page_regex, next_page_pattern, categories)
+        # thread = threading.Thread(target=process_data, args=(site_id, url_xpath, content_xpath, page_regex, next_page_pattern, categories))
+        # thread.start()
+        # print("Thread {} is running".format(thread.getName()))
+        # time.sleep(1)

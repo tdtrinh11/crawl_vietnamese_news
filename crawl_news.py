@@ -11,7 +11,7 @@ import threading
 
 FILE_NAME_PATTERN = "{cate_id}_{site_id}_{post_id}"
 CURRENT_DIR = os.getcwd()
-DATA_DIR = os.path.join(CURRENT_DIR, "data")
+DATA_DIR = os.path.join(CURRENT_DIR, "news_data")
 LOG_FILE = os.path.join(CURRENT_DIR, "log.txt")
 
 SITE_CONFIGS = [
@@ -358,3 +358,5 @@ if __name__ == '__main__':
 
     for config in SITE_CONFIGS:
         thread = threading.Thread(target=process_data, args=(config))
+        thread.start()
+        print("Thread {} is running".format(thread.getName()))

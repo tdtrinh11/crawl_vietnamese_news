@@ -376,12 +376,13 @@ if __name__ == '__main__':
             th.start()
             time.sleep(5)
 
-        count_th = 10       
+        count_th = threading.active_count()
         while(count_th > 0):
-            count_th = 0
-            for th in thread_list:
-                if(th.is_alive()):
-                    count_th = count_th + 1
+            # count_th = 0
+            # for th in thread_list:
+            #     if(th.is_alive()):
+            #         count_th = count_th + 1
+            count_th = threading.active_count()
 
         
         # process_data(site_id, url_xpath, content_xpath, page_regex, next_page_pattern, categories)

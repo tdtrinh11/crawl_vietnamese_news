@@ -377,7 +377,7 @@ if __name__ == '__main__':
             time.sleep(5)
 
         count_th = threading.active_count()
-        while(count_th > 0):
+        while(count_th > 1):
             # count_th = 0
             # for th in thread_list:
             #     if(th.is_alive()):

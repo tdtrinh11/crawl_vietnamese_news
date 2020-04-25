@@ -8,7 +8,7 @@ import os
 import re
 import time
 import threading
-import condecs
+import codecs
 
 FILE_NAME_PATTERN = "{cate_id}_{site_id}_{post_id}"
 CURRENT_DIR = os.getcwd()

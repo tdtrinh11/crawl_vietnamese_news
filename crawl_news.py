@@ -8,6 +8,7 @@ import os
 import re
 import time
 import threading
+import condecs
 
 FILE_NAME_PATTERN = "{cate_id}_{site_id}_{post_id}"
 CURRENT_DIR = os.getcwd()
@@ -71,8 +72,10 @@ SITE_CONFIGS = [
     {
         "name": "VNExpress",
         "id": "VNE",
-        "url_xpath": "//article[contains(@class, 'list_news')]/h4/a[1]/@href",
-        "content_xpath": "//article[contains(@class, 'content_detail')]/p//text()",
+        # "url_xpath": "//article[contains(@class, 'list_news')]/h4/a[1]/@href",
+        "url_xpath": "//*[contains(@class, 'title-news')]/a/@href",
+        # "content_xpath": "//article[contains(@class, 'content_detail')]/p//text()",
+        "content_xpath": "//article[contains(@class, 'fck_detail')]/p//text()",
         "next_page_pattern": "p{}",
         "page_regex": r"p(\d+)",
         "categories": [
@@ -116,12 +119,8 @@ SITE_CONFIGS = [
 
 def write_log(content):
     t = str(datetime.now())
-    # with open(LOG_FILE, "a") as f:
-    #     log_content = "{} - {}\n".format(t, content)
-    #     f.write(log_content)
     f = open(LOG_FILE, 'a')
     log_content = "{} - {}\n".format(t, content)
-    # print("Write log")
     f.write(log_content)
     f.close()
 
@@ -148,8 +147,6 @@ def extract_urls(root_url, doc, url_xpath):
     for url in urls:
         url = "{}{}".format(root_url, urlparse(url).path)
         url = quote(url)
-        # if not __r.sismember(REDIS_VISITED_SET, url):
-        #     filtered_urls.append(url)
         filtered_urls.append(url)
     return filtered_urls
 
@@ -183,7 +180,6 @@ def get_next_page_url(current_url, page_regex, next_page_pattern):
 
     next_page_url = re.sub(page_regex, next_page_pattern.format(next_page), current_url)
 
-    # print("Next page of {}: {}".format(current_url, next_page_url))
     return next_page_url
 
 
@@ -231,11 +227,11 @@ def persist_content(site_id, cate_id, post_id, content):
         file_name = FILE_NAME_PATTERN.format(site_id=site_id, cate_id=cate_id, post_id=post_id)
         file_path = os.path.join(cate_dir, file_name)
 
-        # with open(file_path, "w") as f:
-        #     f.write(content)
-        f = open(file_path, 'w')
-        f.write(content)
-        f.close()
+        with condecs.open(file_path, 'w', encoding='utf8') as f:
+            f.write(content)
+        # f = open(file_path, 'w')
+        # f.write(content)
+        # f.close()
 
     except OSError as e:
         print("OS error: {}".format(e))
@@ -283,8 +279,6 @@ def process_post_content(post_url, content_xpath, site_id, cate_id):
             process_log(result)
             return result
 
-        # url_elements = urlparse(post_url)
-        # __r.sadd(REDIS_VISITED_SET, url_elements.netloc + url_elements.path)
     except Exception as e:
         print("Error: {}".format(str(e)))
         print("Error from url: {}".format(post_url))
@@ -298,7 +292,6 @@ def process_post_content(post_url, content_xpath, site_id, cate_id):
     return result
 
 def process_log(result):
-    # print("Logging: {}".format(result["post_url"]))
     content = "[INFO]" if result["is_success"] else "[ERROR]"
     if not result["is_success"]:
         content += " - {}".format(result["error"])
@@ -318,9 +311,6 @@ def process_page(site_id, cate_id, page_url, url_xpath, content_xpath):
         :type page_regex: str
         :type next_page_pattern: str
     """
-
-    # print("Processing page: {}".format(page_url))
-    # post_args = []
 
     try:
         url_elements = urlparse(page_url)
@@ -352,21 +342,22 @@ def process_data(site_id, url_xpath, content_xpath, page_regex, next_page_patter
     for url in category["urls"]:
         url = init_page_url(url, next_page_pattern)
         count = 0
-        while count < 500:
+        while count < 200:
             count += 1
-            process_page(site_id, cate_id, url, url_xpath, content_xpath)
+            temp = process_page(site_id, cate_id, url, url_xpath, content_xpath)
+            if temp == False: break
             url = get_next_page_url(url, page_regex, next_page_pattern)
 
 if __name__ == '__main__':
 
-    for config in SITE_CONFIGS:
+    for config in [SITE_CONFIGS[0], SITE_CONFIGS[1]]:
         site_id = config["id"]
         url_xpath = config["url_xpath"]
         content_xpath = config["content_xpath"]
         page_regex = config["page_regex"]
         next_page_pattern = config["next_page_pattern"]
         categories = config['categories']
-        
+        thread_num = threading.active_count()
         thread_list = []
         for category in categories:
             thread = threading.Thread(target=process_data, args=(site_id, url_xpath, content_xpath, page_regex, next_page_pattern, category))
@@ -376,13 +367,13 @@ if __name__ == '__main__':
             th.start()
             time.sleep(5)
 
-        count_th = threading.active_count()
-        while(count_th > 1):
-            # count_th = 0
-            # for th in thread_list:
-            #     if(th.is_alive()):
-            #         count_th = count_th + 1
-            count_th = threading.active_count()
+        # count_th = threading.active_count()
+        # while(count_th > thread_num):
+        #     # count_th = 0
+        #     # for th in thread_list:
+        #     #     if(th.is_alive()):
+        #     #         count_th = count_th + 1
+        #     count_th = threading.active_count()
 
         
         # process_data(site_id, url_xpath, content_xpath, page_regex, next_page_pattern, categories)

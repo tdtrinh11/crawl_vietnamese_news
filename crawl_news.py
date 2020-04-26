@@ -227,7 +227,7 @@ def persist_content(site_id, cate_id, post_id, content):
         file_name = FILE_NAME_PATTERN.format(site_id=site_id, cate_id=cate_id, post_id=post_id)
         file_path = os.path.join(cate_dir, file_name)
 
-        with condecs.open(file_path, 'w', encoding='utf8') as f:
+        with codecs.open(file_path, 'w', encoding='utf8') as f:
             f.write(content)
         # f = open(file_path, 'w')
         # f.write(content)
@@ -350,7 +350,7 @@ def process_data(site_id, url_xpath, content_xpath, page_regex, next_page_patter
 
 if __name__ == '__main__':
 
-    for config in [SITE_CONFIGS[0], SITE_CONFIGS[1]]:
+    for config in [SITE_CONFIGS[2], SITE_CONFIGS[3]]:
         site_id = config["id"]
         url_xpath = config["url_xpath"]
         content_xpath = config["content_xpath"]

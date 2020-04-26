@@ -1,0 +1,1371 @@
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/nguoi-sai-gon-tan-huong-ngay-dau-het-cach-ly-xa-hoi-1214821.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/suc-khoe/7-loi-ich-tuyet-voi-cua-viec-an-chay-1209636.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/ifa-2020-bi-huy-do-dai-dich-covid-19-1214599.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/van-hoa/dao-dien-guillermo-del-toro-tiep-tuc-san-xuat-chuyen-kinh-di-luc-nua-dem-2-1215286.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/cong-ty-masan-consumer-trao-tang-10000-suat-an-cho-nguoi-ngheo-1214798.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/xe/video/vinfast-fadil-gay-soc-ban-chay-hon-ca-kia-morning-22907.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/agribank-co-cau-lai-no-cho-15000-khach-hang-bi-anh-huong-dich-covid-19-1214772.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/galaxy-s20-ultra-gay-that-vong-trong-thu-nghiem-camera-cua-dxomark-1214596.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/iphone-se-plus-co-may-quet-van-tay-o-canh-ben-1214634.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/van-hoa/ban-ai-huu-nghe-si-tphcm-ho-tro-cong-nhan-hau-dai-san-khau-1215368.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/cong-nghe/messenger-kids-sap-den-voi-75-quoc-gia-moi-1214373.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/suc-khoe/nhung-nguoi-da-nhiem-virus-corona-co-mien-dich-voi-virus-nay-khong-20200424105252455.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/o-to-xe-may/nguoi-dan-se-duoc-phep-lua-chon-bien-so-xe-theo-so-thich-20200422121525141.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/van-hoa/lao-dao-vi-dich-covid-19-dien-anh-viet-nam-keu-cuu-20200420085348909.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/kinh-doanh/bi-to-lua-dao-ong-chu-cong-ty-giao-duc-online-trung-quoc-mat-ngay-1-ty-usd-20200424095132514.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/nhip-song-tre/ong-bo-da-nang-dung-nha-la-chuoi-cho-con-choi-mua-dich-gay-sot-20200418141207171.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/phap-luat/khoi-to-vu-an-nha-may-thep-khung-gay-that-thoat-nghin-ty-o-ha-tinh-20200424130202667.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/nguoi-sai-gon-ra-duong-ngay-cuoi-cach-ly-xa-hoi-nhieu-nguoi-lo-la-phong-dich-1214637.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/van-hoa/phuong-my-chi-gay-tranh-cai-vi-vo-tu-boi-banh-kem-len-mat-me-1215155.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/thuc-hu-thong-tin-3-may-atm-gao-o-sai-gon-bi-e-vang-nguoi-lay-1213388.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/bat-giam-nguoi-tung-tin-thai-nguyen-co-nguoi-chet-vi-covid-19-de-tra-thu-nguoi-yeu-cu-1212758.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/giao-su-ngo-bao-chau-nguoi-thay-vi-dai-la-nguoi-biet-dat-cau-hoi-hay-1213884.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/suc-khoe/quy-trinh-san-xuat-tra-dr-thanh-vo-trung-giup-tang-cuong-suc-khoe-1211908.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/truong-dai-hoc-o-viet-nam-dat-kiem-dinh-cua-my-1213793.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/nao-loan-vi-vu-dua-thi-the-den-tru-so-xa-doi-lam-ro-o-quang-nam-1212602.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/gia-xang-trong-nuoc-se-xuong-7000-8000-donglit-1214117.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/suc-khoe/bi-khan-giong-keo-dai-nen-di-gap-bac-si-ngay-1209179.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/tin-tuc-giao-duc-dac-biet-tren-bao-in-ngay-mai-1842020-1212490.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/agribank-tiep-tuc-giam-lai-suat-doi-voi-goi-tin-dung-100000-ti-dong-1213316.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/van-hoa/a-hy-tv-xin-loi-kieu-ba-dao-clip-boi-nho-dan-toc-thieu-so-van-con-1215767.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/suc-khoe/trung-quoc-trai-tao-roi-tu-tang-24-khien-be-gai-bi-nut-so-hon-me-1209959.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/kaios-phac-thao-cach-ho-tro-nguoi-dung-thong-tin-ve-covid-19-1212519.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/bay-lac-mua-dich-1211599.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/gia-vang-ngay-254-tang-huong-den-49-trieu-dongluong-1215726.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/ha-noi-du-kien-lui-lich-thi-vao-lop-10-den-ngay-17-187-1212453.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/cu-dan-mang-quan-tam-o-to-bay-khien-hai-nguoi-dung-ben-duong-gap-nan-1213203.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/samsung-ra-mat-ung-dung-nhac-nho-rua-tay-cho-dong-ho-galaxy-1212684.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/van-hoa/ven-buc-man-bi-an-chuyen-huynh-de-tuong-tan-cua-chua-trinh-o-dang-ngoai-1214306.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/hoc-sinh-tphcm-tiep-tuc-nghi-hoc-den-ngay-35-1212445.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/quang-nam-lay-mau-xet-nghiem-covid-19-2-lan-doi-voi-nguoi-tu-khu-nguy-co-cao-1215059.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/nguoi-quay-clip-tai-xe-cuong-ep-co-gai-noi-gi-ve-hoan-canh-luc-ay-1213175.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/the-thao/c-ronaldo-dan-dau-top-10-ban-hop-dong-bom-tan-thanh-cong-nhat-20200420162140580.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/suc-manh-so/nhung-ung-dung-huu-ich-ho-tro-phu-huynh-va-hoc-sinh-tu-hoc-tai-nha-20200409153105540.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/nhip-song-tre/ngay-dau-cach-ly-20200401162208798.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/xe-cho-cong-nhan-samsung-quay-dau-di-nguoc-chieu-tren-cao-toc-20200422112642845.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/kinh-doanh/e-van-con-ga-ri-cang-nuoi-cang-lo-mong-cho-giai-cuu-20200422061800638.htm
+Remote end closed connection without response
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/nhip-song-tre/tang-hang-ngan-khau-trang-nhu-yeu-pham-cho-luc-luong-phong-chong-covid-19-20200328111549120.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/csgt-tang-qua-giup-ba-con-ngheo-vuot-qua-dai-dich-20200421105802825.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/suc-manh-so/thuyet-am-muu-khien-nguoi-dan-anh-dot-pha-tram-phat-song-5-g-20200407122031827.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/van-hoa/sinh-doi-trong-mua-dich-me-dat-ten-con-la-covid-va-corona-20200404225900741.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/bkav-cong-bo-bphone-4-vao-ngay-105-1215828.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/noi-long-cach-ly-xa-hoi-da-nang-cho-phep-buon-ban-tam-bien-tro-lai-1214583.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/google-apple-hua-bao-mat-cho-cong-nghe-truy-vet-covid-19-1215826.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/van-hau-muon-o-lai-ha-lan-nhung-113912.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/tphcm-xuong-nhom-nguy-co-se-noi-long-mot-so-hoat-dong-tu-ngay-234-1214515.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/doanh-nghiep-cong-nghe-tien-phong-trong-cach-mang-chuyen-doi-so-1211138.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/van-hoa/dam-vinh-hung-gay-soc-khi-lay-xe-tien-ti-di-giao-hang-1215906.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/ha-noi-nhung-hoat-dong-nao-duoc-mo-cua-tro-lai-tu-ngay-mai-1214511.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/gia-tang-lua-dao-lay-cap-thong-tin-chiem-doat-tien-trong-tai-khoan-1211947.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/cac-truong-cong-o-thanh-pho-new-york-quyet-dong-cua-het-nam-hoc-vi-covid-19-1209857.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/van-hoa/nhuom-xanh-kim-tu-thap-ai-cap-nhan-ngay-di-san-the-gioi-1213408.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/quibi-dat-17-trieu-luot-tai-trong-tuan-dau-tien-1211005.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bong-da-viet-nam-can-giam-xung-dot-van-hoa-voi-chuyen-gia-ngoai-113889.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/tiep-suc-cung-don-vi-tuyen-dau-phong-chong-dich-eximbank-ung-ho-500-trieu-dong-1211923.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/ba-ria-vung-tau-ram-ro-khai-thac-khoang-san-trai-phep-duoi-chan-nui-toc-tien-1209162.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/giao-duc/bi-quyet-on-thi-thpt-quoc-gia-dat-diem-cao-mon-sinh-sinh-thai-1209810.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/van-hoa/concert-toan-sao-khung-cua-lady-gaga-quyen-gop-gan-128-trieu-usd-chong-covid-19-1213389.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/vietinbank-dieu-chinh-thoi-diem-to-chuc-dhdcd-thuong-nien-2020-1211928.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bui-si-thanh-dua-con-dat-bac-thanh-danh-o-phia-nam-113883.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/dak-lak-xu-phat-tiem-game-tu-tap-33-nguoi-trong-thoi-gian-cach-ly-xa-hoi-1209565.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/hoc-sinh-thai-nguyen-tiep-tuc-nghi-hoc-phong-dich-covid-19-1209829.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/nguoi-viet-o-y-nhung-ngay-cach-ly-vi-covid-19-tiec-mot-the-he-vang-1215730.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/van-hoa/nam-dien-vien-canada-phai-cua-chan-vi-bien-chung-cua-covid-19-1213407.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/don-tau-lon-di-bo-tay-bac-my-giua-dich-covid-19-1211852.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/van-hoa/huan-luyen-vien-khach-moi-khong-ngai-dau-khau-trong-gameshow-tre-em-1213321.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/khong-gian-song-ly-tuong-cho-gia-dinh-3-the-he-1211883.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/giao-duc/singapore-cam-giao-vien-dung-zoom-day-hoc-tu-xa-1209788.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/doi-song/atm-gao-no-ro-o-mien-tay-tu-long-an-den-ben-tre-1211870.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/nhieu-nguoi-soc-vi-tien-dien-thang-4-tang-phi-ma-1211830.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/cap-3000-hoc-bong-cho-sinh-vien-co-cha-me-bi-mat-viec-vi-covid-19-1209633.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/van-hoa/chieu-canh-phim-goi-cam-cau-khach-nha-dai-han-phai-len-tieng-xin-loi-1213349.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/cong-nghe/apple-xuat-xuong-25-trieu-iphone-tai-trung-quoc-trong-thang-3-1211011.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/co-den-tay-van-hau-khi-heerenven-khuyet-trung-ve-trai-113894.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/phat-hien-dan-vooc-cha-va-chan-den-quy-hiem-o-rung-ngheo-kiet-ninh-thuan-1211851.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/can-co-trang-hoi-dap-ve-hoc-online-khi-hoc-sinh-nghi-trong-mua-dich-covid-19-1209608.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/mot-nguoi-o-cu-chi-chet-trong-tu-the-treo-co-de-lai-3-thu-tuyet-menh-1209390.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/thu-mon-van-lam-co-nguy-co-lo-aff-cup-2020-vi-thai-league-se-keo-dai-113884.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/da-nang-phat-tai-xe-chay-chui-trong-mua-cach-ly-xa-hoi-tuoc-bang-2-thang-1209360.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/xe/video/vinfast-fadil-gay-soc-ban-chay-hon-ca-kia-morning-22907.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/thu-mon-van-lam-truyen-cam-hung-tap-the-duc-tai-nha-mua-covid-19-113879.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/loi-nhuan-nhieu-doanh-nghiep-bay-hoi-hang-tram-ti-sau-kiem-toan-1211817.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/van-hoa/dam-vinh-hung-gay-soc-khi-lay-xe-tien-ti-di-giao-hang-1215906.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/doi-song/ap-dung-cong-nghe-nhan-dien-khuon-mat-de-phat-gao-cho-nguoi-ngheo-1211689.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/3-ly-do-nen-cai-dat-ngay-ung-dung-bidv-pay-1211761.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/rot-nuoc-mat-voi-can-leu-2-nu-sinh-vung-cao-dung-len-de-hoc-truc-tuyen-1209338.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/cong-nghe/raspberry-pi-toi-uu-cho-may-tro-tho-1210739.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/o-to-xe-may/co-duoc-lap-ca-hai-bien-dai-cho-o-to-20200324122305760.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/kinh-doanh/vu-duong-nhue-tiet-lo-bat-ngo-tu-giam-doc-trung-tam-dau-gia-truoc-luc-bi-bat-20200418095210150.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giao-duc-khuyen-hoc/thay-co-che-tao-buong-khu-khuan-de-toan-truong-su-dung-chong-dich-covid-19-20200411065010538.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/bo-truong-nong-nghiep-phia-nam-tam-dung-dua-nong-san-len-lang-son-20200418201440978.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/xe/video/vinfast-fadil-gay-soc-ban-chay-hon-ca-kia-morning-22907.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/bi-ban-treu-choc-2-nu-sinh-lop-7-o-nghe-an-an-la-ngon-tu-tu-1209379.html
+Remote end closed connection without response
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/gia-vang-ngay-254-tang-huong-den-49-trieu-dongluong-1215726.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/gia-vang-ngay-164-sjc-tang-nhe-theo-dong-usd-1211638.html
+Remote end closed connection without response
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/neu-bo-thi-thpt-quoc-gia-2020-truong-dh-se-tuyen-sinh-ra-sao-1209210.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/gia-xang-dau-ngay-254-mot-tuan-lao-doc-hon-32-1215744.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/the-thao/hung-than-cua-doi-tuyen-viet-nam-muon-quay-lai-khoac-ao-malaysia-20200412174107636.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/van-hoa/ke-trom-danh-cap-3-buc-tranh-quy-khoi-trien-lam-cua-dai-hoc-oxford-20200317001839274.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/nhip-song-tre/ro-tin-quang-hai-va-nhat-le-hen-ho-nhu-chua-tung-chia-tay-20200225234516284.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giao-duc-khuyen-hoc/nu-sinh-lop-7-lay-tien-nuoi-heo-dat-ung-ho-phong-chong-dich-covid-19-20200404093655848.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/phap-luat/bo-truong-cong-an-vu-duong-nhue-neu-co-tinh-trang-bao-ke-chong-lung-se-xu-ly-ngay-20200415105505856.htm
+Error: HTTP Error 503: Backend fetch failed
+Error from url: https://dantri.com.vn/xa-hoi/nhung-nguoi-lang-le-muu-sinh-trong-dem-vang-o-sai-gon-20200415175459234.htm
+Error: HTTP Error 503: Backend fetch failed
+Error from url: http://dantri.com.vn/kinh-doanh/nhan-ca-nao-nghi-cach-chi-tieu-de-song-sot-qua-mua-dich-20200415132912793.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/gia-gai-vuot-bien-tron-cach-ly-1206021.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/nguoi-viet-o-my-may-khau-trang-tang-benh-vien-co-luc-lam-14-tiengngay-1209881.html
+Error: HTTP Error 503: Backend fetch failed
+Error from url: https://dantri.com.vn/suc-manh-so/apple-store-dong-cua-toan-cau-viet-nam-co-anh-huong-20200318132312702.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/sap-pha-do-toa-nha-8b-le-truc-giai-doan-2-ton-khoang-17-ti-dong-1215230.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/rao-ban-nhieu-khoan-no-doanh-nghiep-ca-nhan-1210208.html
+HTTP Error 503: Backend fetch failed
+HTTP Error 503: Backend fetch failed
+HTTP Error 503: Backend fetch failed
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/khong-the-huy-giai-sao-v-league-khong-hoc-thai-lan-chi-thi-dau-mot-luot-113623.html
+Error: HTTP Error 503: Backend fetch failed
+Error from url: https://dantri.com.vn/o-to-xe-may/honda-khai-tu-mau-xe-chay-dien-clarity-ev-20200312190258050.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/phan-anh-sai-pham-ve-phong-dich-covid-19-qua-ung-dung-tren-dien-thoai-1209920.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/cong-nghe/100-trieu-nguoi-dung-android-can-xoa-ung-dung-rat-nguy-hiem-1208758.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/nguoi-cao-tuoi-hai-phong-moi-mat-cho-linh-tro-cap-theo-muc-moi-1209918.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/mua-da-giong-loc-lam-3-nguoi-chet-thiet-hai-gan-42-ti-dong-1215204.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/doi-song/hy-huu-to-bi-trom-xe-winner-o-tphcm-3-tieng-sau-tim-thay-1215679.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/thay-giao-tay-cam-bang-giup-tien-mua-thuc-an-o-tphcm-1210036.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/gan-146000-ca-nghi-mac-covid-19-tai-viet-nam-da-duoc-loai-tru-1215216.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/van-hoa/dam-vinh-hung-gay-soc-khi-lay-xe-tien-ti-di-giao-hang-1215906.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/san-phu-vuot-can-sinh-be-gai-giua-khuya-trong-khu-cach-ly-hue-xuat-vien-1209951.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/cao-tung-a-vi-chang-ti-hon-cua-bong-da-sai-gon-113617.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/bi-quyet-on-thi-thpt-quoc-gia-dat-diem-cao-mon-ly-song-anh-sang-1206035.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/7-ngay-lien-tiep-khong-ghi-nhan-them-ca-benh-covid-19-1215198.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/van-hoa/danh-hai-thuy-nga-len-tieng-khi-bi-chui-nghe-si-ma-an-tien-tro-cap-1215456.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/doi-song/cu-dan-mang-quan-tam-quan-huyen-khong-chap-hanh-kiem-tra-dich-covid-19-1210033.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/thoi-su/vu-tranh-chap-ly-hon-giua-vo-chong-ong-dang-le-nguyen-vu-khang-nghi-huy-an-1205644.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/alphabet-thanh-cong-voi-ke-hoach-tieu-diet-muoi-gay-benh-1207671.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/lam-dong-cong-an-kham-nghiem-hien-truong-vuon-sau-rieng-bi-ha-doc-1215069.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/day-truc-tuyen-theo-chuong-trinh-tinh-gian-cua-bo-gd-dt-khi-nghi-dich-covid-19-1205684.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/lienvietpostbank-ho-tro-10000-ti-dong-tiep-tuc-giam-lai-suat-cho-vay-den-2nam-1209855.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/khoi-to-vu-an-be-gai-3-tuoi-tu-vong-nghi-bi-me-va-cha-duong-bao-hanh-1205372.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/co-phieu-dien-toan-dam-may-an-toan-giua-mua-dich-covid-19-1208558.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/tap-doan-th-va-ngan-hang-bac-a-tang-hon-15-ti-dong-chong-dich-covid-19-1209838.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/bien-hoa-chu-tich-phuong-bi-tam-dinh-chi-vi-de-xay-dung-trai-phep-tran-lan-1215118.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/giao-duc/truong-dai-hoc-bach-khoa-ha-noi-to-chuc-ky-thi-rieng-de-xet-tuyen-dai-hoc-1205663.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/tin-tac-loi-dung-covid-19-de-tong-tien-cac-benh-vien-1207346.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/giua-dich-covid-19-bac-si-phap-dat-cau-hoi-sao-nguoi-viet-luon-tu-te-1209646.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/chu-tich-clb-sai-gon-khong-dong-y-voi-cach-ap-dat-cua-vpf-113556.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/tay-ninh-triet-pha-song-tai-xiu-giua-rung-cao-su-1215054.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/thoi-su/tay-ninh-yeu-be-gai-12-tuoi-nam-thanh-nien-30-tuoi-bi-tam-giu-hinh-su-1205311.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/siet-bat-dong-san-se-day-gia-len-cao-1215636.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/tong-bi-thu-cong-tac-nhan-su-de-nay-sinh-van-de-tam-tu-day-dut-1215115.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/cac-cau-thu-tre-dang-duoc-su-dung-nhu-the-nao-o-v-league-2020-113548.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/bkav-cong-bo-bphone-4-vao-ngay-105-1215828.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/cac-dia-phuong-tiep-tuc-dung-nhieu-hoat-dong-sau-thoi-gian-cach-ly-xa-hoi-1215097.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tien-dao-tien-linh-tro-tai-lam-tho-va-nau-an-113538.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/cac-truong-quan-doi-keo-dai-lich-so-tuyen-den-206-do-dich-covid-19-1205584.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/de-han-che-anh-huong-xau-den-tre-khi-nghi-hoc-dai-ngay-vi-covid-19-1205344.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/ngan-ngam-canh-nang-bui-mua-lay-nguoi-dan-chan-xe-ban-1214987.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/tang-cuong-kiem-tra-chat-luong-thuoc-dieu-tri-benh-nhan-covid-19-1215080.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/chuong-trinh-quoc-te-toan-phan-cambridge-tai-vas-va-nhung-diem-khac-biet-1203843.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/cong-nghe/chau-au-dung-drone-cua-trung-quoc-de-kiem-soat-dich-bat-chap-lo-ngai-cua-my-1208500.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/giong-loc-mua-da-tai-nghe-an-2-nguoi-bi-thuong-nhieu-nha-dan-bi-toc-mai-1215084.html
+Remote end closed connection without response
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/van-hoa/hai-quan-my-nhay-ghen-co-vy-cung-tre-em-da-nang-20200307231919216.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giao-duc-khuyen-hoc/nhung-diem-moi-nhat-tuyen-sinh-vao-truong-cong-an-nam-2020-20200330181624033.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/chuyen-tu-te-mang-gao-den-tan-nha-tang-nguoi-ngheo-1208486.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tuyen-nu-viet-nam-van-bo-xa-thai-lan-tren-bang-xep-hang-fifa-113393.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/van-hoa/hoa-si-tran-luu-hau-qua-doi-o-tuoi-92-20200302075920611.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/o-to-xe-may/ro-ri-gia-ban-suzuki-xl-7-tai-viet-nam-du-kien-thang-8-ra-mat-20200226153530636.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giao-duc-khuyen-hoc/cac-truong-dai-hoc-nhuong-gan-53000-cho-o-cho-khu-cach-ly-20200327085803537.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/suc-khoe/cach-an-uong-tot-nhat-cho-nguoi-bi-ung-thu-da-day-20200408211242884.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/de-xuat-bo-quy-dinh-ve-dieu-kien-rieng-dang-ky-thuong-tru-ha-noi-tphcm-20200328093944837.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/nhip-song-tre/nhung-cau-noi-lan-toa-manh-me-nhat-nam-2019-cua-ban-tre-viet-p-2-20200110145202467.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/the-thao/chua-cam-quan-hlv-jovanovic-da-bi-uae-sa-thai-20200406195752718.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giao-duc-khuyen-hoc/giao-su-mai-hong-quy-thoi-chuc-hieu-truong-truong-dh-hoa-sen-20200326173740234.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/o-to-xe-may/ban-co-biet-vi-sao-cua-kinh-o-to-co-nhung-dai-cham-den-20200224183016389.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/van-hoa/cau-be-tu-choi-di-du-lich-danh-gan-17-ty-quyen-gop-duoc-de-lam-tu-thien-20200228205136442.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giao-duc-khuyen-hoc/ky-luat-hieu-pho-quan-he-khong-trong-sang-voi-phu-nu-co-gia-dinh-20200326163335542.htm
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/doi-song/buoc-thao-do-28-ki-ot-xay-sai-thiet-ke-an-ngu-mat-tien-cho-bao-loc-1207935.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/xu-ly-tieu-cuc-o-bong-da-tre-dung-de-con-sau-lam-rau-noi-canh-113312.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/macbook-air-2020-co-mat-tai-viet-nam-gia-gan-28-trieu-dong-1206877.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/csgt-phat-hien-o-to-cho-10000-khau-trang-lau-gan-san-bay-tan-son-nhat-1207888.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/bkav-tiep-tuc-hoan-ra-mat-bphone-4-do-dich-covid-19-1206882.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tu-gia-cong-ty-ruou-quoc-vuong-lai-duoc-song-voi-khat-vong-va-dam-me-113301.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/nguoi-dan-tphcm-nop-ho-so-truc-tuyen-nhung-ngay-cach-ly-xa-hoi-1213818.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/doi-song/cu-dan-mang-quan-tam-di-o-to-trom-ca-chuc-con-cho-1207700.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/cong-nghe/bkav-cong-bo-bphone-4-vao-ngay-105-1215828.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/cong-nghe/apple-cung-cap-tam-khien-che-mat-tuy-chinh-cho-nhan-vien-y-te-1206787.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/chuong-trinh-ky-su-moi-duoc-sua-theo-huong-nao-1201598.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/thuong-ta-dang-the-trung-bi-cach-chuc-truong-phong-csgt-dong-nai-1214319.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/doi-song/tphcm-nam-bo-chieu-toi-nay-don-mua-vang-sau-nhung-ngay-gan-40-do-c-1207881.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/tai-chinh-kinh-doanh/gia-xang-dau-ngay-254-mot-tuan-lao-doc-hon-32-1215744.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/youtube-manh-tay-voi-video-thuyet-am-muu-5g-phat-tan-covid-19-1206795.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/sinh-vien-dh-duy-tan-chuyen-sang-hoc-toan-bo-online-giua-dich-covid-19-1201957.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/bien-phong-tay-ninh-bat-giu-thuoc-la-lau-vang-chu-lon-nhat-tu-truoc-den-nay-1214283.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/edoctor-ho-tro-chat-voi-bac-si-mien-phi-1206804.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/nghi-hoc-vi-dich-covid-19-can-tinh-gian-chuong-trinh-hoan-toan-dung-gui-lai-nam-sau-1201914.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/thoi-su/tphcm-ra-toa-vi-danh-nguoi-khi-bi-nhac-deo-khau-trang-phong-dich-covid-19-1214327.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/diem-chuan-galaxy-s20-voi-exynos-990-thua-phien-ban-dung-snapdragon-865-1206800.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/xiaomi-lay-huawei-lam-cong-cu-pr-tai-chau-au-1206782.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/huynh-quoc-anh-se-doi-mon-no-truoc-van-quyen-113299.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/nhieu-ung-dung-di-dong-bi-mat-kiem-soat-nguoi-dung-1206162.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/ngoc-cham-thach-do-tuyet-dung-tang-giay-ve-sinh-va-cai-ket-bat-ngo-113295.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/gian-va-thuong-voi-cau-be-vang-van-quyen-113289.html
+Remote end closed connection without response
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/khau-trang-tu-may-lieu-co-the-bao-ve-ban-khoi-covid-19-1204861.html
+Remote end closed connection without response
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/facebook-ra-mat-ung-dung-messenger-moi-cho-windows-va-macos-1205403.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/thoi-su/bat-ke-dung-clip-nong-tong-tien-nu-sinh-lop-9-1213890.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/cong-nghe/xiaomi-mi-band-3-va-4-da-co-the-mo-khoa-laptop-1205060.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/van-hoa/xem-phim-ngoai-rap-cung-la-mot-hoat-dong-the-thao-20200217230552601.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/o-to-xe-may/k-0-coi-hanh-trinh-ben-bi-va-sang-tao-vi-an-toan-giao-thong-cung-the-he-tre-20200214144932587.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/nhip-song-tre/nu-tro-ly-phien-dich-xinh-dep-cua-u-23-viet-nam-o-thai-lan-20200113091351950.htm
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/giao-duc/hoc-sinh-ha-noi-tu-lop-4-den-12-hoc-chinh-khoa-tren-truyen-hinh-1200031.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/do-khoc-do-cuoi-vi-nhung-cu-dien-thoai-quay-roi-tong-dai-115-mua-dich-covid-19-1213822.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/vi-sao-hagl-thoai-mai-da-voi-cand-ma-vff-vpf-khong-tuyt-coi-113151.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/giao-duc/robot-thay-nhan-vien-y-te-vao-phuc-vu-khu-cach-ly-covid-19-1199984.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/van-cong-khai-ly-lich-khoa-hoc-cac-thanh-vien-hoi-dong-giao-su-nha-nuoc-1199973.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/ky-tuc-xa-dhqg-tphcm-thanh-khu-cach-ly-thay-co-don-dep-the-gioi-cua-sinh-vien-1199813.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/clb-da-nang-chia-tay-tien-dao-philipe-nsiah-sau-hai-vong-dau-113028.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/dinh-tac-con-long-hanh-den-bao-gio-1213568.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/dich-covid-19-doanh-nghiep-ngai-nhan-sinh-vien-thuc-tap-1197976.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/de-dich-vu-cong-truc-tuyen-dot-pha-1213664.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/dak-nong-hoc-sinh-thpt-nghi-hoc-tu-chieu-193-phong-dich-covid-19-1198343.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/kinh-doanh/bi-thoi-bay-30000-ty-dong-con-ac-mong-nganh-hang-khong-chua-dut-20200405225740342.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/van-hoa/ban-thich-co-be-lo-lem-hanh-dong-hay-ha-mieng-cho-sung-ky-2-20200206113517223.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/van-hau-sap-tap-lai-cung-heerenveen-cho-thang-6-ve-da-cho-tuyen-viet-nam-113019.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/cong-an-tphcm-bat-giam-bi-can-giang-ho-com-can-lam-sat-thu-1213577.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/vu-sap-tuong-lam-7-nguoi-chet-o-vinh-long-de-nghi-truy-to-4-bi-can-1213576.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/thoi-su/chi-cuc-truong-chi-cuc-thi-hanh-an-dan-su-tpthanh-hoa-va-ban-chet-bat-thuong-1213519.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/tin-tuc-giao-duc-dac-biet-tren-bao-in-ngay-mai-1932020-1197911.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/benh-vien-bach-mai-co-them-2-may-tho-phuc-vu-ung-pho-covid-19-1213461.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/thanh-hoa-thua-hai-tran-lien-tiep-bau-de-lai-khoc-rong-112967.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/doi-tuyen-viet-nam-vat-chan-len-co-voi-mat-do-thi-dau-day-112947.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/dong-nai-khoi-cong-khu-tai-dinh-cu-cho-du-an-san-bay-long-thanh-1213290.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/thoi-su/hop-tac-quoc-te-nghien-cuu-vac-xin-phong-covid-19-1213279.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/thoi-su/phu-yen-nuoc-thai-nuoi-tom-buc-tu-bai-bien-phuoc-dong-1213066.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/clb-tphcm-huong-loi-khi-v-league-tam-hoan-112930.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/nhip-song-tre/ngot-ngao-voi-ban-gai-tren-mang-van-toan-khai-voi-me-con-chua-co-nguoi-yeu-20191213103658211.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/kinh-doanh/shb-tung-goi-tin-dung-25-nghin-ty-dong-giam-lai-suat-cho-vay-giua-dai-dich-20200403152604321.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/the-thao/ronaldinho-va-cuoc-song-buon-tui-trong-tu-20200327193910966.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/v-league-hoan-nguoi-ngoai-cuoi-nu-ke-trong-khoc-tham-112926.html
+<urlopen error _ssl.c:1059: The handshake operation timed out>
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/sai-gon-fc-hop-ly-trong-loi-choi-va-ruc-lua-tinh-than-112897.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/du-hoc/gan-300-trieu-hoc-sinh-toan-cau-nghi-hoc-vi-covid-19-20200305231809830.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/van-hoa/nghe-si-tu-long-quang-thang-van-dung-chuc-mung-nam-moi-doc-gia-dan-tri-20200124213240500.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/suc-khoe/dau-hieu-nhan-biet-ung-thu-bang-quang-20200404102326359.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/kinh-doanh/dai-ly-dong-cua-dan-sale-o-to-lam-shipper-gang-qua-dai-dich-20200401170017817.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/quang-tri-xuat-hien-cong-van-gia-mao-cho-nghi-hoc-den-het-ngay-293-1195318.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/de-nghi-ky-luat-4-to-chuc-dang-23-dang-vien-trong-quan-doi-1212531.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/thi-sinh-nao-phu-hop-nganh-khoa-hoc-xa-hoi-va-nhan-van-1194341.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/thay-giao-di-ha-noi-ve-chu-dong-khai-bao-lich-trinh-cach-ly-tai-nha-1194339.html
+<urlopen error _ssl.c:1059: The handshake operation timed out>
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/cac-truong-dai-hoc-o-ha-noi-dong-ky-tuc-xa-1194319.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/toi-viet/blog-phong-vien/xem-thuong-phap-luat-lay-lan-giua-mua-dich-1212504.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/tphcm-khong-hop-nhat-3-ban-quan-ly-dau-tu-xay-dung-thanh-mot-1212483.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/the-thao/clb-quang-nam-de-xuat-huy-bo-v-league-2020-20200321201219055.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giao-duc-khuyen-hoc/tphcm-hoc-sinh-lop-12-nghi-het-83-hoc-sinh-khoi-con-lai-nghi-den-153-20200229121252771.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/o-to-xe-may/hang-chuc-ngan-xe-mazda-3-bi-loi-phanh-khan-cap-20191223230148494.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/van-hoa/hong-dang-hong-diem-ngoc-quynh-noi-gi-ve-ket-phim-hoa-hong-tren-nguc-trai-20200110091258750.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/suc-khoe/them-3-benh-nhan-mac-covid-19-khoi-benh-20200326221047860.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/khao-sat-y-kien-phu-huynh-ve-deo-khau-trang-trong-truong-phong-chong-dich-covid-19-1190971.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/thoi-su/du-bao-thoi-tiet-hom-nay-1642020-nam-bo-tay-nguyen-mua-lon-vao-chieu-toi-1211587.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/giao-duc/quang-tri-con-14-em-hoc-sinh-thpt-chua-den-truong-vi-cach-ly-tai-nha-1190906.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/giai-ma-thanh-cong-cua-ila-viet-nam-bai-hoc-ve-thau-hieu-1190945.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/vong-loai-giai-bong-da-u19-cong-an-vao-cuoc-khong-livestream-tai-san-ham-rong-112562.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/nhung-thay-doi-cua-ky-thi-thpt-quoc-gia-2020-1190625.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/cac-truong-dai-hoc-lui-ky-thi-rieng-sang-thang-8-vi-dich-covid-19-1190794.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/giao-duc/nhieu-hoc-sinh-gioi-quoc-gia-dang-ky-xet-tuyen-vao-truong-dh-cong-nghe-thong-tin-1190530.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hlv-truong-viet-hoang-phai-1-2-tran-nua-viettel-moi-da-hay-duoc-112550.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/nghi-hoc-vi-covid-19-dam-bao-thi-sinh-co-thoi-gian-cho-thi-thpt-quoc-gia-1190604.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/o-to-xe-may/co-hoi-cuoi-cung-trong-nam-2019-mua-o-to-toyota-gia-hoi-20191209235537907.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/chieu-mo-hlv-y-bau-de-va-thanh-hoa-van-den-vi-thua-cay-hai-phong-112557.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/dai-bieu-quoc-hoi-cam-giac-duoc-giao-sung-ma-khong-duoc-giao-dan-20191112171148037.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/nhip-song-tre/nhan-sac-cuc-pham-ban-trai-thai-lan-cua-hot-girl-trang-anna-20191018122007594.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/the-thao/v-league-2020-tam-hoan-vi-dich-covid-19-20200315212803765.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giao-duc-khuyen-hoc/3600-giao-vien-hoc-sinh-tung-di-chuyen-qua-vung-co-ca-nhiem-covid-19-20200222160509349.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/suc-khoe/ben-tre-cach-ly-hon-1500-nguoi-vi-mot-ca-mac-covid-19-20200323150943586.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/nhan-dinh-bong-da-v-league-2020-binh-duong-vs-da-nang-giu-lua-cho-ngay-khan-gia-tro-lai-112537.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/tin-tuc-giao-duc-dac-biet-tren-bao-in-ngay-mai-43-1190474.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/giao-duc/everest-education-mo-rong-chuong-trinh-truc-tuyen-voi-lop-toan-va-tieng-anh-1190408.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/the-thao/champions-league-thay-doi-ke-hoach-chua-tung-co-vi-covid-19-20200314133930866.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/cho-den-mua-quan-ban-chuc-thuong-nhon-nhip-dip-bau-cu-dai-hoi-20191105153900549.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/suc-khoe/nhap-vien-cap-cuu-vi-uong-15-vien-thuoc-sot-ret-du-phong-mac-covid-19-20200322153145245.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/van-hoa/giai-thuong-sach-quoc-gia-chon-duoc-2-giai-a-tri-gia-hang-tram-trieu-dong-20191223163615476.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/kinh-doanh/chuyen-gia-xuat-khau-gao-thay-vi-cam-nen-chu-dong-don-song-tang-gia-20200325080658161.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/hoc-gia-viet-nam-boc-me-chieu-banh-truong-bien-dong-cua-trung-quoc-20191101090145772.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/the-thao/hlv-solskjaer-tram-tro-khi-tan-binh-lap-sieu-pham-20200313115211666.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/suc-khoe/cung-luc-cong-bo-5-ca-mac-covid-19-moi-viet-nam-ghi-nhan-66-truong-hop-20200317134251248.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/kinh-doanh/thong-bao-khan-doi-voi-tat-ca-cac-chuyen-bay-quoc-te-toi-viet-nam-20200320171217680.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/the-thao/nga-mu-truoc-su-tan-hien-cua-c-ronaldo-20200309130944180.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/thu-tuong-campuchia-hun-sen-ket-thuc-chuyen-tham-chinh-thuc-viet-nam-20191005210233828.htm
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/the-thao/chelsea-40-everton-cu-soc-lon-voi-ancelotti-20200308210352395.htm
+<urlopen error _ssl.c:1059: The handshake operation timed out>
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/cong-vinh-tung-cay-dang-tai-clb-vua-bi-bo-dao-nha-cam-thi-dau-2-nam-112025.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/binh-phuoc-cho-hoc-sinh-nghi-hoc-den-het-thang-2-phong-covid-19-1183164.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/phong-dich-covid-19-bo-gd-dt-khuyen-cao-truong-dai-hoc-cho-sinh-vien-nghi-den-het-thang-2-1183227.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/kinh-doanh/hom-nay-gan-7000-nguoi-viet-tro-ve-tu-cac-diem-nong-covid-19-20200318105843824.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/nhieu-truong-dai-hoc-tiep-tuc-cho-sinh-vien-keo-dai-ky-nghi-lich-su-vi-covid-19-1182945.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/giam-doc-cong-an-tinh-bac-giang-lam-chanh-van-phong-bo-cong-an-20190909163312356.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/o-to-xe-may/cac-hang-xe-duc-gay-phan-no-vi-choi-sang-trong-dai-dich-covid-19-20200425085111165.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bo-cua-lee-nguyen-xac-nhan-co-dam-phan-voi-clb-tphcm-111953.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/suc-khoe/nguoi-phu-nu-noi-lai-tinh-xua-voi-chong-cu-vi-mac-ung-thu-vu-20200313221415797.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/afc-danh-gia-phi-son-cong-phuong-blade-la-bo-3-nguyen-tu-cua-clb-tphcm-111913.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/xuan-truong-ve-viet-nam-tu-han-quoc-hagl-dang-ky-da-cup-quoc-gia-111909.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/giang-vien-duy-tan-bao-cao-tai-hoi-thao-bao-ton-di-san-van-hoa-quoc-te-1182449.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/kinh-doanh/vi-sao-hon-1000-gia-dinh-dong-loat-bao-duong-quat-tran-truoc-khi-vao-he-2020-20200317162300203.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/chua-luu-hoc-sinh-viet-nam-nao-o-trung-quoc-co-bieu-hien-suc-khoe-lo-ngai-1178906.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/10-nam-truoc-lee-nguyen-bung-no-tai-viet-nam-con-bay-gio-lieu-co-gay-soc-111661.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/clb-tphcm-loay-hoay-trong-viec-tim-be-phong-cho-cong-phuong-111663.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/dung-lam-van-hau-kho-xu-111451.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/cach-phat-trien-nao-bo-cho-con-khi-nghi-hoc-phong-tranh-dich-corona-1178949.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/suc-khoe/noi-soi-cat-u-gan-cho-benh-nhan-ung-thu-gan-20200316084529247.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/giao-vien-hoc-sinh-phai-bao-viec-di-chuyen-di-qua-vung-co-dich-virus-corona-1178596.html
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hoa-khoi-tuyen-nu-viet-nam-hoang-thi-loan-toi-khong-phai-fan-cua-cong-phuong-111574.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/kyrgyzstan-thuoc-thu-dung-lieu-cua-doi-tuyen-viet-nam-111578.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/chu-tich-tre-nhat-v-league-khong-so-ha-noi-bi-doi-bong-cua-cong-phuong-soan-ngoi-vuong-111572.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/vang-quang-hai-ha-noi-chat-vat-tim-kiem-ban-thang-truoc-viettel-111570.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/pgs-ts-bui-hien-muon-in-tac-pham-truyen-kieu-bang-3-loai-chu-1175914.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/mung-3-tet-thay-nghi-ve-cai-tam-cua-nghe-day-hoc-1175676.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/tho-tet-trong-nha-truong-con-ngheo-nan-1175421.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tuyen-nu-viet-nam-co-bi-ngop-khi-phai-dau-voi-uc-tren-san-33000-khan-gia-111333.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/sinh-vien-xa-nha-an-tet-som-1173825.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/giao-vien-se-duoc-tuyen-dung-theo-quy-dinh-moi-ra-sao-1173812.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tai-sao-ong-park-khong-quay-lai-viet-nam-vao-ngay-152-111328.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/giao-duc/tet-la-hoc-ky-ve-gia-dinh-1173719.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tuyen-nu-viet-nam-goi-2-cau-thu-cuc-khoe-dau-uc-o-play-off-olympic-111294.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/fctokyo-hop-tac-sai-gon-fc-mo-hoc-vien-bong-da-tai-viet-nam-111111.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hlv-mai-duc-chung-se-bo-sung-nhan-su-cho-tuyen-nu-viet-nam-o-tran-play-off-111107.html
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tuyen-nu-viet-nam-gap-han-quoc-binh-tinh-ma-da-111076.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/tuyen-nu-viet-nam-cu-xem-han-quoc-la-quan-xanh-111100.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/van-hau-gap-kho-khi-heerenveen-sa-sut-111086.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/cho-doi-gi-o-tran-tuyen-nu-viet-nam-dau-voi-han-quoc-111073.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/malaysia-chi-ca-tram-ti-dong-cho-cac-em-hoc-sinh-an-bua-sang-1168623.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/khong-duoc-hoc-sinh-gioi-thi-lieu-hon-1168467.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/clb-ha-noi-tam-nghi-tranh-virus-corona-quang-hai-ve-dong-anh-tu-tap-110984.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/bang-ky-su-bac-si-tuong-duong-thac-si-co-the-hoc-thang-len-tien-si-1168468.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/doan-van-hau-21-tran-va-0-phut-111061.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/van-to-chuc-thi-giao-vien-day-gioi-nhung-khong-ep-buoc-1168462.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/ba-truong-dai-hoc-co-the-lien-ket-thanh-dai-hoc-1168445.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/sinh-vien-lam-them-kiem-tien-de-hoc-lai-1168446.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/hoc-sinh-khong-con-hung-thu-lam-them-do-muon-tap-trung-vao-viec-hoc-1168438.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/giao-duc/137-giao-vien-mam-non-bi-ngo-doc-thuc-pham-trong-luc-tham-gia-hoi-thao-1168395.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/doi-thoai-ve-sach-cong-nghe-giao-duc-cua-gs-ho-ngoc-dai-gay-gat-chia-re-1167926.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/vi-sao-xuan-truong-khong-duoc-hagl-dang-ky-tai-cup-quoc-gia-2020-111031.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/du-an-khoa-hoc-ky-thuat-cua-hoc-sinh-mang-tinh-ung-dung-cao-1167827.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/khong-xem-nu-han-quoc-dau-viet-nam-ong-park-quay-lai-ha-noi-ngay-152-111028.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/doi-thoai-nay-lua-giua-bo-gd-dt-va-gs-ho-ngoc-dai-1167819.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/nhung-nguoi-ban-dong-hanh-cua-bao-thanh-nien-1167767.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/giao-duc/truong-dh-khoa-hoc-xa-hoi-nhan-van-tphcm-danh-1200-chi-tieu-xet-diem-thi-nang-luc-1167679.html
+Error: The read operation timed out
+Error from url: http://dantri.com.vn/suc-khoe/tram-y-te-xa-cung-co-the-dieu-tri-benh-nhan-mac-covid-19-20200314212729009.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/tinh-yeu-gioi-tinh/ngoai-tinh-yeu-day-moi-la-thu-quan-trong-hang-dau-de-gin-giu-hon-nhan-hanh-phuc-20200425100227709.htm
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/doan-van-hau-du-bi-dai-han-o-heerenveen-noi-lo-khong-cua-rieng-ai-110911.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tran-thanh-binh-nguoi-sai-gon-trong-long-thanh-pho-110910.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/tet-la-mot-hoc-ky-khong-bai-tap-ve-nha-1164303.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/da-co-nha-tai-tro-vpf-van-nom-nop-lo-cup-quoc-gia-phai-lui-nua-vi-corona-110901.html
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/con-dau-dau-khong-he-nhe-cho-vff-va-vpf-110895.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/dam-cuoi-doc-dao-cua-trung-ve-do-duy-manh-110891.html
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/doi-tuyen-viet-nam-bi-dong-khi-cac-giai-trong-nuoc-phai-lui-110871.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/so-huu-ngoi-sao-goc-kovoso-malaysia-thach-thuc-ngoi-dau-cua-tuyen-viet-nam-110881.html
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/biet-doi-hagl-tiep-te-khau-trang-phong-chong-corona-tai-pleiku-110879.html
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hau-ve-doan-van-hau-kho-ve-viet-nam-du-le-trao-giai-qua-bong-vang-110877.html
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tuyen-nu-viet-nam-tiep-tuc-ren-chien-thuat-chuan-bi-tran-gap-han-quoc-110872.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tuyen-nu-han-quoc-mat-2-ngoi-sao-truoc-tran-gap-viet-nam-o-vong-loai-olympic-110861.html
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/uae-hoan-tat-nhap-tich-chan-sut-ngoai-khung-thu-3-kho-cho-tuyen-viet-nam-110859.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/tinh-yeu-gioi-tinh/chong-khong-cho-bo-vo-70-tuoi-muon-xe-can-than-khong-thua-20200323165828398.htm
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/van-toan-bui-tien-dung-khong-de-cuoc-dua-tranh-suat-len-tuyen-viet-nam-110678.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bong-da-viet-nam-bi-lo-bai-hlv-park-hang-seo-co-chieu-gi-moi-110683.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/clb-ha-noi-di-chua-cau-may-cho-mua-giai-moi-thang-loi-ruc-ro-110674.html
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/cac-doi-thu-tuyen-nu-viet-nam-chuan-bi-vong-loai-olympic-110670.html
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/duong-kim-vo-dich-v-league-van-loay-hoay-tim-phuong-an-thay-van-hau-110664.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/dh-quoc-gia-tphcm-de-xuat-cap-phat-hon-2000-ti-dong-von-vay-tu-wb-1215424.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/cau-thu-viet-kieu-martin-lo-dau-quan-clb-hai-phong-110656.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/giang-vien-nhan-nhu-sinh-vien-lap-ke-hoach-cho-hoc-ky-moi-thoi-nao-1215365.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/binh-dinh-can-ky-phat-tien-tphcm-xuong-bien-luyen-cong-don-v-league-2020-110651.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/dai-su-khoi-4g-ca-ngoi-tuyen-nu-viet-nam-da-truyen-cam-hung-cho-xa-hoi-110523.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/tinh-yeu-gioi-tinh/hoc-sinh-nghi-hoc-cham-soc-con-the-nao-de-phong-virus-corona-20200203100011927.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/u23-viet-nam-thang-truoc-tinh-sau-110259.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/co-du-ngoai-binh-chat-luong-hagl-dat-muc-tieu-cao-tai-v-league-2020-110273.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/truong-dh-nong-lam-tphcm-them-phuong-thuc-xet-diem-thi-nang-luc-va-hoc-ba-1215561.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tien-si-toan-tinh-xac-suat-u23-viet-nam-chi-co-268-co-hoi-di-tiep-110278.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/truong-cd-cong-thuong-tphcm-xet-diem-danh-gia-nang-luc-cua-tat-ca-truong-dh-1215504.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/se-co-hai-ban-thang-cho-u23-viet-nam-va-nin-tho-ngong-ket-qua-tran-con-lai-110271.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/tinh-yeu-gioi-tinh/neu-la-vo-cu-cua-anh-20200102082328747.htm
+Error: HTTP Error 503: Backend fetch failed
+Error from url: https://dantri.com.vn/tinh-yeu-gioi-tinh/me-toi-tang-manh-dat-ngan-m-2-cho-con-dau-truoc-khi-mat-20200101105750550.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/cha-me-gia-moi-mon-doi-loi-hen-di-het-mot-giap-se-ve-cua-con-gai-20190709065412424.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/tinh-yeu-gioi-tinh/20-loi-chuc-tet-hay-y-nghia-cho-cac-cap-doi-yeu-nhau-20200101105235814.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/truong-dh-nguyen-tat-thanh-xet-tuyen-som-bo-qua-hoc-ky-cuoi-1215557.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/u23-viet-nam-roi-vao-tinh-the-kho-khan-sau-tran-hoa-thu-hai-110162.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hlv-doi-jordan-u23-viet-nam-rat-gioi-khong-chien-110135.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/chuyen-chua-biet-ve-su-hy-sinh-anh-dung-cua-nguoi-con-ca-thu-tuong-vo-van-kiet-2018072709263104.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giai-tri/nguoi-dep-phim-quyen-nong-bong-trong-tung-khuon-hinh-20200425105442349.htm
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/soi-keo-u23-viet-nam-u23-jordan-sat-gio-dau-u23-viet-nam-duoc-danh-gia-cao-110140.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/den-svd-hoa-lu-xem-bong-da-qua-man-hinh-khung-nghe-blv-quang-huy-bung-no-110137.html
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/truyen-hinh-bao-thanh-nien-binh-luan-truoc-tran-u23-viet-nam-u23-jordan-110138.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/nhung-chat-xuc-tac-cua-jordan-o-cuoc-dung-do-u23-viet-nam-110130.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tuyen-nu-viet-nam-cuong-quyet-choi-tu-500-trieu-dong-du-dg-mang-den-san-tap-110120.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hlv-doi-jordan-u23-viet-nam-rat-gioi-khong-chien-110135.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/hoa-gao-to-do-duong-pho-ha-noi-20180316072601318.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/tinh-yeu-gioi-tinh/khong-hut-hang-khi-chong-xach-vali-ra-khoi-nha-20191111152016600.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/u23-viet-nam-dinh-trong-tro-lai-va-nhung-dau-hoi-o-hang-thu-110100.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/truong-cd-cong-thuong-tphcm-xet-diem-danh-gia-nang-luc-cua-tat-ca-truong-dh-1215504.html
+Error: The read operation timed out
+Error from url: https://thanhnien.vn/giao-duc/kon-tum-hoc-sinh-tiep-tuc-nghi-hoc-do-dich-covid-19-1215539.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/cong-phuong-co-doi-tac-xin-tren-hang-cong-clb-tphcm-110118.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/de-xuat-cac-truong-y-duoc-ngoi-lai-voi-nhau-tim-phuong-an-tuyen-sinh-2020-1215420.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/nha-co-ha-noi-hien-len-ro-rang-trong-ngay-vang-dau-nam-201801011233461.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/xoay-xo-bai-toan-hoc-sinh-ngoi-gian-cach-15-m-1215632.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/u23-chau-a-nhat-ban-noi-got-trung-quoc-bi-loai-som-dau-la-su-thuc-110107.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/kon-tum-hoc-sinh-tiep-tuc-nghi-hoc-do-dich-covid-19-1215539.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/bi-quyet-on-thi-thpt-quoc-gia-dat-diem-cao-mon-dia-ly-dia-ly-tu-nhien-1215280.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bong-da-viet-nam-da-den-luc-khang-dinh-vi-the-110139.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/soi-keo-u23-viet-nam-u23-jordan-sat-gio-dau-u23-viet-nam-duoc-danh-gia-cao-110140.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bong-da-viet-nam-da-den-luc-khang-dinh-vi-the-110139.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://thanhnien.vn/giao-duc/de-xuat-cac-truong-y-duoc-ngoi-lai-voi-nhau-tim-phuong-an-tuyen-sinh-2020-1215420.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/soi-keo-u23-viet-nam-u23-jordan-sat-gio-dau-u23-viet-nam-duoc-danh-gia-cao-110140.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/truyen-hinh-bao-thanh-nien-binh-luan-truoc-tran-u23-viet-nam-u23-jordan-110138.html
+Remote end closed connection without response
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/tinh-yeu-gioi-tinh/chuyen-that-nhu-dua-co-gai-vua-la-ban-trai-vua-la-ban-gai-cua-nguoi-khac-20190905150431557.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/hinh-anh-bac-ho-trong-khong-khi-bau-cu-o-thu-do-20160519141913901.htm
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/den-svd-hoa-lu-xem-bong-da-qua-man-hinh-khung-nghe-blv-quang-huy-bung-no-110137.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/tinh-yeu-gioi-tinh/tam-biet-bup-be-than-yeu-20190905083041635.htm
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/den-svd-hoa-lu-xem-bong-da-qua-man-hinh-khung-nghe-blv-quang-huy-bung-no-110137.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/truyen-hinh-bao-thanh-nien-binh-luan-truoc-tran-u23-viet-nam-u23-jordan-110138.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tuyen-nu-viet-nam-cuong-quyet-choi-tu-500-trieu-dong-du-dg-mang-den-san-tap-110120.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bong-da-viet-nam-da-den-luc-khang-dinh-vi-the-110139.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/soi-keo-u23-viet-nam-u23-jordan-sat-gio-dau-u23-viet-nam-duoc-danh-gia-cao-110140.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/den-svd-hoa-lu-xem-bong-da-qua-man-hinh-khung-nghe-blv-quang-huy-bung-no-110137.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/truyen-hinh-bao-thanh-nien-binh-luan-truoc-tran-u23-viet-nam-u23-jordan-110138.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/phong-su-ky-su/hat-gao-viet-chi-khat-nguoi-tai-1417869214.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/chia-se-lanh-nguoi-cua-mot-tho-san-ran-doc-1417437046.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giai-tri/seungri-big-bang-chinh-thuc-len-duong-nhap-ngu-20200310092745496.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/nhung-chat-xuc-tac-cua-jordan-o-cuoc-dung-do-u23-viet-nam-110130.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/soi-keo-u23-viet-nam-u23-jordan-sat-gio-dau-u23-viet-nam-duoc-danh-gia-cao-110140.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hlv-doi-jordan-u23-viet-nam-rat-gioi-khong-chien-110135.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/cong-phuong-co-doi-tac-xin-tren-hang-cong-clb-tphcm-110118.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/u23-chau-a-nhat-ban-noi-got-trung-quoc-bi-loai-som-dau-la-su-thuc-110107.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/u23-viet-nam-dinh-trong-tro-lai-va-nhung-dau-hoi-o-hang-thu-110100.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hlv-doi-jordan-u23-viet-nam-rat-gioi-khong-chien-110135.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giai-tri/emmy-rossum-phai-deo-nguc-gia-khi-quay-phim-moi-20200226093705633.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/khuc-trang-ca-truong-sa-anh-noi-di-3-nam-roi-ve-1395284158.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/cong-phuong-co-doi-tac-xin-tren-hang-cong-clb-tphcm-110118.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/truyen-hinh-bao-thanh-nien-binh-luan-truoc-tran-u23-viet-nam-u23-jordan-110138.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bong-da-viet-nam-da-den-luc-khang-dinh-vi-the-110139.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/soi-keo-u23-viet-nam-u23-jordan-sat-gio-dau-u23-viet-nam-duoc-danh-gia-cao-110140.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/den-svd-hoa-lu-xem-bong-da-qua-man-hinh-khung-nghe-blv-quang-huy-bung-no-110137.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giai-tri/vanessa-hudgens-khoe-vai-tran-nuot-na-20200221095945476.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/soi-keo-u23-viet-nam-u23-jordan-sat-gio-dau-u23-viet-nam-duoc-danh-gia-cao-110140.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/nhung-chat-xuc-tac-cua-jordan-o-cuoc-dung-do-u23-viet-nam-110130.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/cong-phuong-co-doi-tac-xin-tren-hang-cong-clb-tphcm-110118.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/u23-chau-a-nhat-ban-noi-got-trung-quoc-bi-loai-som-dau-la-su-thuc-110107.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hlv-doi-jordan-u23-viet-nam-rat-gioi-khong-chien-110135.html
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/u23-chau-a-nhat-ban-noi-got-trung-quoc-bi-loai-som-dau-la-su-thuc-110107.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/den-svd-hoa-lu-xem-bong-da-qua-man-hinh-khung-nghe-blv-quang-huy-bung-no-110137.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/truyen-hinh-bao-thanh-nien-binh-luan-truoc-tran-u23-viet-nam-u23-jordan-110138.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/giai-tri/xuan-bac-bat-mi-cach-trong-con-van-minh-va-hieu-qua-luc-dich-corona-20200210135509774.htm
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tuyen-nu-viet-nam-cuong-quyet-choi-tu-500-trieu-dong-du-dg-mang-den-san-tap-110120.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hlv-doi-jordan-u23-viet-nam-rat-gioi-khong-chien-110135.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bong-da-viet-nam-da-den-luc-khang-dinh-vi-the-110139.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/nhung-chat-xuc-tac-cua-jordan-o-cuoc-dung-do-u23-viet-nam-110130.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bong-da-viet-nam-da-den-luc-khang-dinh-vi-the-110139.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/soi-keo-u23-viet-nam-u23-jordan-sat-gio-dau-u23-viet-nam-duoc-danh-gia-cao-110140.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/den-svd-hoa-lu-xem-bong-da-qua-man-hinh-khung-nghe-blv-quang-huy-bung-no-110137.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hlv-doi-jordan-u23-viet-nam-rat-gioi-khong-chien-110135.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bong-da-viet-nam-da-den-luc-khang-dinh-vi-the-110139.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/soi-keo-u23-viet-nam-u23-jordan-sat-gio-dau-u23-viet-nam-duoc-danh-gia-cao-110140.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/truyen-hinh-bao-thanh-nien-binh-luan-truoc-tran-u23-viet-nam-u23-jordan-110138.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/nhung-chat-xuc-tac-cua-jordan-o-cuoc-dung-do-u23-viet-nam-110130.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tuyen-nu-viet-nam-cuong-quyet-choi-tu-500-trieu-dong-du-dg-mang-den-san-tap-110120.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/cong-phuong-co-doi-tac-xin-tren-hang-cong-clb-tphcm-110118.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/u23-chau-a-nhat-ban-noi-got-trung-quoc-bi-loai-som-dau-la-su-thuc-110107.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/den-svd-hoa-lu-xem-bong-da-qua-man-hinh-khung-nghe-blv-quang-huy-bung-no-110137.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hlv-doi-jordan-u23-viet-nam-rat-gioi-khong-chien-110135.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bong-da-viet-nam-da-den-luc-khang-dinh-vi-the-110139.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/ban-giao-cong-trinh-cap-nuoc-sach-mien-phi-cho-nguoi-dan-ca-mau-20200411145433326.htm
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/soi-keo-u23-viet-nam-u23-jordan-sat-gio-dau-u23-viet-nam-duoc-danh-gia-cao-110140.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/hlv-doi-jordan-u23-viet-nam-rat-gioi-khong-chien-110135.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/tang-bang-khen-4-kiem-lam-vqg-yok-don-dung-cam-truy-bat-lam-tac-20200130111038585.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/vung-nuoc-bien-den-ngom-dang-dich-chuyen-tren-vung-bien-dung-quat-20191207123156547.htm
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/giai-cuu-rua-bien-nang-15-kilogam-di-lac-tren-song-hieu-20190816175652851.htm
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/truyen-hinh-bao-thanh-nien-binh-luan-truoc-tran-u23-viet-nam-u23-jordan-110138.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/da-nang-phat-9-khach-san-ven-bien-vi-pham-trong-linh-vuc-moi-truong-20190601123823813.htm
+Error: <urlopen error timed out>
+Error from url: https://dantri.com.vn/xa-hoi/quang-nam-xay-nha-may-dot-rac-da-nang-lo-ngai-nguon-nuoc-20190526141815862.htm
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/u23-chau-a-nhat-ban-noi-got-trung-quoc-bi-loai-som-dau-la-su-thuc-110107.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/tranh-cai-giam-luong-cau-thu-o-ngoai-hang-anh-clb-se-tu-quyet-114295.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/thi-truong-chuyen-nhuong-lao-dao-vi-covid-19-114062.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/pogba-bi-cuu-danh-thu-graeme-souness-boc-me-chi-la-ranh-con-114051.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/he-lo-tung-tich-cuu-tuyen-thu-thai-lan-bi-giang-ho-truy-no-114003.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/thiet-hai-nang-ne-cua-cac-clb-chau-au-113989.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/toan-bo-cau-thu-ngoai-hang-anh-phai-xet-nghiem-covid-19-moi-tro-lai-thi-dau-113895.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/bat-qua-tang-doi-tuong-do-trom-hang-chuc-tan-rac-thai-ra-moi-truong-2018011708345507.htm
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/vff-dap-tra-thong-tin-hlv-park-hang-seo-bi-cam-chi-dao-o-aff-cup-2020-113802.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/qatar-va-nga-phan-ung-my-ve-bang-chung-mua-phieu-bau-world-cup-113794.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/hlv-duy-nhat-dan-dat-barcelona-real-va-atletico-madrid-qua-doi-113750.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/bong-da-phap-soc-khi-bac-si-o-ligue-1-tu-tu-vi-nhiem-covid-19-113711.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/big-4-bundesliga-ho-tro-20-trieu-euro-cho-cac-doi-thu-trong-dai-dich-covid-19-113388.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/cau-thu-co-nguy-co-lay-nhiem-cao-ngoi-sao-uong-nuoc-cung-can-huong-dan-112999.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/nha-vo-dich-world-cup-nhiem-covid-19-juventus-hot-hoang-113010.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/covid-19-bao-gio-bong-da-chau-au-moi-thi-dau-tro-lai-112950.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/cau-thu-dau-tien-cua-bundesliga-duong-tinh-voi-covid-19-112840.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/hlv-jurgen-klopp-liverpool-co-the-khong-vo-dich-nhung-cuoc-song-quan-trong-hon-112836.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/ti-le-cuoc-huy-euro-va-olympic-2020-chiem-the-thuong-phong-112743.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/lich-thi-dau-truc-tiep-bong-da-afc-cup-hom-nay-103-trong-doi-cong-phuong-tren-dat-lao-112629.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/lao-toyota-doi-thu-cua-clb-tphcm-o-afc-cup-manh-co-nao-112624.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/lich-thi-dau-lich-truc-tiep-bong-da-ngoai-hang-anh-dem-nay-83-dai-chien-manchester-112512.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/ket-qua-bong-da-burnley-1-1-tottenham-top-4-cang-xa-voi-spurs-112504.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/van-hau-lam-khan-gia-trong-ngay-heerenveen-that-thu-truoc-ajax-amsterdam-112503.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/ket-qua-bong-da-bundesliga-ket-thuc-rang-sang-nay-83-dortmund-soan-cho-leipzig-112477.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/hang-loat-cau-thu-giai-hang-dau-dan-mach-bi-cach-ly-do-om-cuu-tuyen-thu-112390.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/premier-league-tu-gio-moi-hap-dan-112384.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/hlv-lampard-chelsea-se-da-cua-duoi-de-thang-bayern-munich-111865.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/han-quoc-hoan-vo-thoi-han-giai-k-league-2020-vi-dai-dich-covid-19-111807.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/nhan-dinh-bong-da-club-brugge-mu-quy-do-huong-den-mot-ket-qua-tich-cuc-111616.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/guardiola-gay-chien-khi-barcelona-mia-mai-an-cam-cua-man-city-111623.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/tuyen-myanmar-co-the-bi-cam-5-nam-vi-ban-do-o-vong-loai-world-cup-2022-111576.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/son-heung-min-cau-thu-chau-a-dau-tien-ghi-tren-50-ban-o-ngoai-hang-anh-111427.html
+Error: The read operation timed out
+Error from url: https://dantri.com.vn/xa-hoi/bo-cong-an-bo-gtvt-trao-doi-viec-dieu-tra-vu-an-cao-toc-da-nang-quang-ngai-20191202162448482.htm
+Error: HTTP Error 503: Backend fetch failed
+Error from url: https://dantri.com.vn/xa-hoi/vu-bam-nat-hanh-lang-giao-thong-diem-mat-mot-doanh-nghiep-sai-pham-nghiem-trong-20191202124234712.htm
+Error: HTTP Error 503: Backend fetch failed
+Error from url: https://dantri.com.vn/xa-hoi/va-cham-xe-may-nguoi-dan-ong-khong-doi-mu-bao-hiem-tu-vong-20191202093417169.htm
+HTTP Error 503: Backend fetch failed
+HTTP Error 503: Backend fetch failed
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/tran-man-city-gap-west-ham-bi-hoan-vi-thoi-tiet-khac-nghiet-111112.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/tranh-hang-ba-vck-u23-chau-a-uzbekistan-uc-tam-ve-cuoi-du-olympic-cho-ai-110576.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/sau-that-bai-o-sea-games-30-hlv-tuyen-u23-malaysia-duoc-len-chuc-110585.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/afc-quyet-chat-dut-voi-bach-tuoc-ban-do-o-bong-da-chau-a-110584.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/la-liga-valencia-la-lieu-thuoc-thu-dich-thuc-cho-tan-hlv-cua-barcelona-110582.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/messi-cuu-ngay-ra-mat-barcelona-cua-tan-hlv-setien-110442.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/bai-tran-truoc-liverpool-mu-con-nhan-tin-xau-rashford-nghi-3-thang-110440.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/ha-guc-quy-do-mu-ngay-len-dinh-cua-liverpool-khong-con-xa-110437.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/vck-u23-chau-a-uae-uzbekistan-ha-be-nha-vo-dich-110421.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/mu-tra-gia-dat-cho-chien-thang-o-fa-cup-110268.html
+Error: HTTP Error 404: Not Found
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/cac-doi-tuyen-quoc-gia/soi-keo-u23-thai-lan-u23-iraq-u23-uc-u23-bahrain-110188.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/hlv-nishino-mat-tran-phong-thu-cua-u23-thai-lan-van-la-diem-yeu-nhat-110061.html
+Remote end closed connection without response
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/bruno-fernandes-se-phuc-dung-gia-tri-so-10-112552.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/premier-league-va-ky-nghi-dong-khong-giong-ai-110692.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/tin-vao-moi-luong-duyen-ben-vung-voi-thay-park-107200.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/cot-moc-100-tuyet-voi-cho-taa-107060.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/granada-va-cau-chuyen-dien-ro-o-la-liga-106915.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/ly-giai-hien-tuong-lewandowski-106781.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/giam-doc-ky-thuat-anh-la-ai-106279.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/tai-thu-phuc-nhan-tam-cua-frank-lampard-105831.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/bong-da-viet-nam-dang-so-huu-nhung-khoi-tai-san-khong-lo-102352.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/don-gian-ong-la-park-hang-son-102233.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/khi-vff-mo-cua-doi-tuyen-101811.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/can-bao-ve-u23-va-tuyen-viet-nam-100010.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/bong-da-viet-nam-moi-chi-la-buoc-khoi-dau-98061.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/bai-toan-joachim-loew-cua-nguoi-duc-94667.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/cho-doi-gi-o-tuyen-olympic-viet-nam-tai-asiad-18-90668.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/world-cup-2018/doi-tuyen-nga-world-cup-2018-tu-lev-yashin-den-igor-akinfeev-89893.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/bau-duc-nguoi-tu-te-don-doc-trong-cuoc-choi-day-muu-mo-86354.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-quoc-te/ldbd-anh-khung-hoang-vi-vu-sam-allardyce-scandal-duoc-canh-bao-som-68098.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/mourinho-vs-guadiola-thanh-cong-tu-ngoai-san-co-67120.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/tuyen-viet-nam-mot-tran-len-may-mot-roi-xuong-mat-dat-59841.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/thay-nao-dam-len-thay-ong-miura-57810.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/u23-viet-nam-that-bai-o-qatar-cac-chau-da-cac-chu-dau-57606.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/tu-miura-nho-calisto-va-can-mot-giam-doc-ky-thuat-57499.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/viet-bong-da-cung-nen-fair-play-55798.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/lua-tren-san-thong-nhat-55722.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/thay-tro-miura-va-trai-nghiem-quy-cho-aff-cup-55590.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/xung-danh-derby-manchester-54870.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/hay-khai-tu-hoi-dong-hlv-quoc-gia-neu-54552.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/thay-tro-ong-miura-cu-cho-di-roi-se-nhan-lai-54328.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/giom-va-miura-vua-lam-vua-vo-53268.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/bong-da-viet-nam/tu-chuyen-huy-tap-huan-cua-u19-den-buoi-tap-tren-san-ruong-cua-tuyen-viet-nam-53148.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/nguy-hiem-qua-cong-phuong-ngan-bong-da-51336.html
+Error: HTTP Error 404: Not Found
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/sea-games-2015/bong-da-viet-nam-va-sea-games-con-kien-ma-leo-canh-da-50608.html
+Error: HTTP Error 404: Not Found
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/sea-games-2015/tiec-nuoi-cho-thay-tro-miura-50439.html
+Error: HTTP Error 404: Not Found
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/sea-games-2015/ong-miura-lanh-lung-voi-du-luan-vi-sao-50046.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/cong-phuong-da-thuong-thoi-49947.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/tu-chung-ket-aff-cup-2014-nguoi-tam-thuong-khong-the-lam-nen-chien-cong-phi-thuong-32782.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/nghich-ly-chay-nguoi-o-bong-da-viet-nam-32831.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/u19-viet-nam-can-tinh-bao-the-thao-37869.html
+Error: list index out of range
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/cong-thuc-my-thuc-cua-guardiola-thieu-gia-vi-9.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/dan-ong-khong-roi-le-boi-chua-du-thuong-tam-thoi-435.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/mu-bi-don-vao-chan-tuong-toi-son-va-moi-2055.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/tro-nao-thay-nay-3401.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/dang-cap-cua-hlv-le-thuy-hai-4402.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/giai-dau-an-kieng-4535.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/liverpool-muon-di-len-hay-ban-suarez-16930.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/wayne-rooney-va-hai-ban-thang-cach-nhau-3880-ngay-21403.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/tuyen-anh-tiep-tuc-buoc-lui-22466.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/nga-mu-truoc-porto-22572.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/bong-da-viet-nam-chuyen-cai-tam-va-tam-26101.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/ke-dong-the-thanh-cong-28857.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/serie-a-balotelli-da-tro-ve-nha-28924.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/khai-pha-mo-vang-29013.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/bundesliga-coi-nhu-nga-ngu-33884.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/gia-tri-cua-bong-da-anh-41822.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/khi-tieu-cuc-van-con-dat-song-41836.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/hau-van-hoa-chui-5569.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/nguoi-ta-van-chua-hieu-het-bong-da-tbn-5675.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/milan-thua-o-cho-nao-8675.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/thai-do-dang-ton-trong-cua-tim-howard-9805.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/nha-giau-suong-that-9914.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/bellamy-hon-balotelli-11159.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/binh-luan/van-nen-phat-bong-ngan-11191.html
+The read operation timed out
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/vo-chong-djokovic-dap-tra-an-tuong-thu-thach-cua-murray-113948.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/tau-toc-hanh-federer-bo-het-san-dat-nen-chi-tap-trung-du-phap-mo-rong-111390.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/uc-mo-rong-2020-bat-ngo-chay-mau-mui-medvedev-van-vao-vong-3-110540.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/hon-400-tay-vot-lam-nong-giai-cong-dong-tennis-mo-rong-2019-106167.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/federer-khoi-dau-thanh-cong-tai-giai-thuong-hai-masters-2019-106230.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/daniel-nguyen-thang-ly-hoang-nam-dang-quang-itf-world-tennis-tour-tay-ninh-106162.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/chien-thang-ngoan-muc-cua-daniel-nguyen-va-ly-hoang-nam-106006.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/quan-vot-viet-nam-can-nhieu-ly-hoang-nam-105986.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/vua-luoi-le-quoc-khanh-chan-thuong-phai-bo-cuoc-o-giai-quan-vot-nha-nghe-tay-ninh-105956.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/4-tay-vot-viet-nam-tranh-ve-vao-vong-chinh-giai-quan-vot-nha-nghe-tay-ninh-105897.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/cho-bat-ngo-tu-cac-tay-vot-chu-nha-viet-nam-tai-giai-itf-tay-ninh-103405.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/chuyen-du-dau-bo-ich-cua-cac-tay-vot-hai-dang-tay-ninh-102744.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/vua-danh-doi-le-quoc-khanh-nguoc-dong-dang-quang-100155.html
+Error: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ung-cu-vien-zverev%C2%A0bat-ngo-bi-loai-o-vong-3-giai-indian-wells-99372.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-qua-ai-dau-tien-o-giai-quan-vot-nha-nghe-vietnam-open-97348.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/cu-dup-quan-vot-xuat-sac-giup-van-phuong-chinh-phuc-giai-tre-uc-mo-rong-96960.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/dai-hoi-tdtt-toan-quoc-nam-binh-duong-nu-da-nang-vo-dich-dong-doi-quan-vot-95864.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/nguyen-van-phuong-dang-quang-doi-nam-quan-vot-tre-quoc-te-han-quoc-95315.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-ve-nhi-o-noi-dung-doi-nam-quan-vot-nha-nghe-tay-ninh-95296.html
+Error: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/hai-tan-binh-stephens%C2%A0va-bertens%C2%A0gianh-ve-vao-ban-ket-wta-finals-2018-95036.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/my-mo-rong-2018-a-quan-anderson-bi-loai-o-vong-4-92430.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/my-mo-rong-2018-federer-de-dang-ha-trai-hu-kyrgios-92392.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/my-mo-rong-2018-tranh-cai-trong-tai-giup-kyrgios-chien-thang-92330.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/vong-2-my-mo-rong-2018-cuu-so-1-the-gioi-murray-tro-lai-khong-thanh-cong-92278.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/tay-vot-so-1-the-gioi-halep-thua-soc-o-vong-1-my-mo-rong-92157.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ket-thuc-thanh-cong-giai-quan-vot-mung-73-nam-quoc-khanh-viet-nam-92085.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/roger-federer-tim-lai-chien-thang-sau-1-thang-nghi-ngoi-91567.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/chien-binh-wawrinka-ha-sieu-quay-kyrgios-o-vong-1-giai-rogers-cup-91270.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/choi-thang-hoa-tai-trung-quoc-van-phuong-lan-dau-vo-dich-nhom-1-giai-tre-the-gioi-91145.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/tung-bung-giai-quan-vot-nganh-trang-tri-noi-that-mien-trung-nam-bo-va-tay-nguyen-2018-84612.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/federer-van-bat-bai-trong-nam-2018-84299.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-de-dang-vao-vong-2-don-nam-giai-quan-vot-nha-nghe-an-do-84186.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/vuot-kho-o-vong-2-serena-gap-venus-o-vong-3-giai-indian-wells-84121.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-vao-tu-ket-hong-kong-f6-futures-81504.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/tang-27-bac-ly-hoang-nam-tro-lai-top-500-atp-80238.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/jack-sock-bat-ngo-gianh-ve-vao-ban-ket-atp-finals-79898.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/nha-vo-dich-giai-tre-thai-lan-duoc-trao-suat-vao-vong-chinh-vietnam-f1-futures-79456.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/federer-tra-gia-cho-chuc-vo-dich-giai-basel-khi-phai-bo-paris-masters-79399.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/giai-my-mo-rong-2017-ha-federer-del-potro-dung-do-nadal-o-ban-ket-77908.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/sea-games-2017/hoang-nam-tien-thang-den-tam-hcv-sea-games-2017-77459.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/federer-toi-khong-nghi-se-tro-thanh-huyen-thoai-o-wimbledon-76190.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/giai-wimbledon-tang-tien-thuong-den-125-75797.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-khoi-dau-suon-se-tai-trung-quoc-75850.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/cho-doi-murray-va-nadal-ra-quan-trong-ngay-khai-mac-wimbledon-2017-75833.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/chuyen-gia-ao-thuat-lam-phep-giup-murray-75810.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-khoi-dau-suon-se-tai-trung-quoc-75850.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/djokovic-co-danh-hieu-truoc-them-wimbledon-75813.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/boc-tham-wimbledon-2017-big-four-gap-kho-o-tu-ket-75791.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-khoi-dau-suon-se-tai-trung-quoc-75850.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-tang-62-bac-xep-hang-475-nha-nghe-the-gioi-75836.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-khoi-dau-suon-se-tai-trung-quoc-75850.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/wimbledon-2017-wawrinka-bat-ngo-bi-loai-ngay-vong-1-75864.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/wimbledon-2017-wawrinka-bat-ngo-bi-loai-ngay-vong-1-75864.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-khoi-dau-suon-se-tai-trung-quoc-75850.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-tang-62-bac-xep-hang-475-nha-nghe-the-gioi-75836.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/giai-wimbledon-tang-tien-thuong-den-125-75797.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/wimbledon-2017-wawrinka-bat-ngo-bi-loai-ngay-vong-1-75864.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-tang-62-bac-xep-hang-475-nha-nghe-the-gioi-75836.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/boc-tham-wimbledon-2017-big-four-gap-kho-o-tu-ket-75791.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/boc-tham-wimbledon-2017-big-four-gap-kho-o-tu-ket-75791.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/djokovic-co-danh-hieu-truoc-them-wimbledon-75813.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/giai-wimbledon-tang-tien-thuong-den-125-75797.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/giai-wimbledon-tang-tien-thuong-den-125-75797.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/boc-tham-wimbledon-2017-big-four-gap-kho-o-tu-ket-75791.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/chuyen-gia-ao-thuat-lam-phep-giup-murray-75810.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/djokovic-co-danh-hieu-truoc-them-wimbledon-75813.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/giai-wimbledon-tang-tien-thuong-den-125-75797.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-khoi-dau-suon-se-tai-trung-quoc-75850.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/quan-vot/ly-hoang-nam-tang-62-bac-xep-hang-475-nha-nghe-the-gioi-75836.html
+Remote end closed connection without response
+Error: timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/kinh-ngu-sun-yang-len-lut-len-tuyen-trung-quoc-trong-thoi-gian-bi-cam-8-nam-114349.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/the-thao-the-gioi-sap-tro-lai-bong-da-thi-dau-khong-khan-gia-trong-18-thang-114103.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/tai-sao-khu-lien-hop-quoc-gia-my-dinh-bi-doi-no-thue-gan-544-ti-dong-114094.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/chu-tich-lien-doan-cu-ta-the-gioi-tu-chuc-vi-be-boi-tham-nhung-va-doping-114074.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/martin-nguyen-tuc-gian-truoc-nan-phan-biet-chung-toc-vi-covid-19-113877.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/vo-si-khabib-bi-mac-ket-o-nga-ufc-hoang-hot-tim-nguoi-thay-the-113512.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/cup-xe-dap-truyen-hinh-tphcm-pha-vo-truyen-thong-lui-sang-thang-5-113447.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/cac-nha-to-chuc-bi-mat-len-ke-hoach-hoan-olympic-2020-113195.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/chu-tich-uy-ban-olympic-quoc-te-chung-toi-khong-phai-nguoi-ngoai-hanh-tinh-113183.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/tuyen-dau-tien-cua-trung-quoc-tu-bo-co-hoi-du-olympic-2020-vi-virus-corona-111263.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/chang-dua-f1-trung-quoc-chinh-thuc-bi-hoan-111233.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/nha-vo-dich-the-hinh-trung-quoc-qua-doi-vi-nhiem-virus-corona-111106.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/ai-dung-sau-vu-be-boi-tinh-duc-rung-chuyen-the-thao-phap-110992.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/anh-vien-van-muon-hlv-dang-anh-tuan-dan-dat-minh-den-sea-games-31-110785.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/le-quang-liem-cham-tran-cao-thu-san-phan-thuong-khung-dau-nam-moi-110458.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/soc-chuyen-nha-quan-ly-khong-biet-hlv-dang-anh-tuan-bo-anh-vien-di-my-110433.html
+Error: The read operation timed out
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/nhat-vi-co-50-trieu-dong-van-dong-vien-dien-kinh-tra-lai-kho-chu-110436.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/co-giao-day-co-doat-ngoi-vo-dich-giai-co-vua-quoc-te-an-do-109901.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/vtv-truc-tiep-toan-bo-32-tran-vck-u23-chau-a-2020-109841.html
+Remote end closed connection without response

@@ -314,7 +314,7 @@ def process_page(site_id, cate_id, page_url, url_xpath, content_xpath):
 
     try:
         url_elements = urlparse(page_url)
-        page = request.urlopen(page_url, timeout=500)
+        page = request.urlopen(page_url, timeout=100)
         doc = html.fromstring(page.read())
 
     except Exception as e:
@@ -342,7 +342,7 @@ def process_data(site_id, url_xpath, content_xpath, page_regex, next_page_patter
     for url in category["urls"]:
         url = init_page_url(url, next_page_pattern)
         count = 0
-        while count < 200:
+        while count < 500:
             count += 1
             temp = process_page(site_id, cate_id, url, url_xpath, content_xpath)
             if temp == False: break
@@ -350,14 +350,17 @@ def process_data(site_id, url_xpath, content_xpath, page_regex, next_page_patter
 
 if __name__ == '__main__':
 
-    for config in [SITE_CONFIGS[2], SITE_CONFIGS[3]]:
+    # for config in [SITE_CONFIGS[0], SITE_CONFIGS[1]]:
+    # for config in [SITE_CONFIGS[2], SITE_CONFIGS[3]]:
+    for config in SITE_CONFIGS:
         site_id = config["id"]
         url_xpath = config["url_xpath"]
         content_xpath = config["content_xpath"]
         page_regex = config["page_regex"]
         next_page_pattern = config["next_page_pattern"]
         categories = config['categories']
-        thread_num = threading.active_count()
+
+        # thread_num = threading.active_count()
         thread_list = []
         for category in categories:
             thread = threading.Thread(target=process_data, args=(site_id, url_xpath, content_xpath, page_regex, next_page_pattern, category))

@@ -1369,3 +1369,791 @@ Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/co-giao-
 Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
 Error from url: http://thethao.thanhnien.vn/the-thao/toan-canh-the-thao/vtv-truc-tiep-toan-bo-32-tran-vck-u23-chau-a-2020-109841.html
 Remote end closed connection without response
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Error: list index out of range
+Error from url: https://vnexpress.net/vn-index-tien-gan-780-diem-4089399-tong-thuat.html
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-tang-nhung-thanh-khoan-giam-manh-4088811-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-tro-lai-sac-xanh-4088327-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-xoa-sach-thanh-qua-bon-phien-tang-truoc-4087803-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-tang-phien-thu-sau-lien-tiep-4087139-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/vn-index-tang-phien-thu-nam-lien-tiep-4085920-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/co-phieu-coteccons-vietjet-keo-thi-truong-tang-diem-4085337-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/vn-index-tien-gan-780-diem-4084820-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-xanh-vo-do-long-4084247-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-tang-diem-tro-lai-4083697-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-dut-chuoi-7-phien-tang-lien-tiep-4082399-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/vn-index-cham-moc-760-diem-4081796-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-tang-phien-thu-sau-lien-tiep-4081232-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-tang-phien-thu-nam-lien-tiep-4080725-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-co-phien-tang-manh-nhat-19-nam-4080107-tong-thuat.html
+Error: HTTP Error 404: Not Found
+Error from url: https://vnexpress.net/tin-tuc/video/startup-nen-lam-gi-de-xoay-chuyen-nghich-canh-trong-covid-19-4080122.html
+Error: list index out of range
+Error from url: https://vnexpress.net/vn-index-vuot-moc-700-diem-4078745-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/vn-index-tang-gan-18-diem-4077763-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-dao-chieu-lien-tuc-4077217-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/oppo-find-x2-ra-mat-thi-truong-viet-nam-gia-23-99-trieu-dong-4069543-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-dau-tuan-giam-gan-5-4076716-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/khoi-ngoai-mua-rong-hon-20-ty-dong-4075471-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/vn-index-tang-diem-hai-phien-lien-tiep-4074890-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/vn-index-tang-manh-nhat-gan-11-nam-4074345-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-giam-phien-thu-tu-lien-tiep-4073800-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-giam-manh-nhat-19-nam-4073269-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/co-phieu-ho-vin-giam-san-khi-etfs-co-cau-danh-muc-4072006-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-giam-manh-tro-lai-4071448-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-dut-mach-giam-diem-4070926-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/chung-khoan-giam-phien-thu-nam-lien-tiep-4070358-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/khoi-ngoai-ban-rong-25-phien-lien-tiep-4069908-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/tp-hcm-doc-chiem-dinh-bang-v-league-4069675-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/hagl-chia-diem-voi-viettel-4069672-tong-thuat.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/gia-dinh/bac-si-bat-cuoi-ke-cuoc-dien-thoai-nu-benh-nhan-covid-19-goi-luc-nua-dem-635070.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/doanh-nhan/chan-dung-nu-doanh-nhan-cam-dau-bang-toi-pham-o-thai-binh-636616.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/san-pham/ngam-mau-iphone-12-voi-camera-sau-co-may-quet-3d-dep-long-lanh-627589.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/bi-thu-ha-noi-phai-tinh-phuong-an-cach-ly-ca-khu-pho-phong-covid-19-619871.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/trung-tuong-pham-tam-long-nguyen-thu-truong-bo-noi-vu-qua-doi-619720.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/nghi-duong-vinpearl-sieu-uu-dai-chi-tu-2-499-000-dong-nguoi-636631.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/ha-noi-xu-phat-3-nha-thuoc-vi-pham-quy-dinh-kinh-doanh-628305.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/sau-tay-lai/o-to-dam-dai-phan-cach-bay-len-khong-trung-vo-nat-621432.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ky-su-phap-dinh/goi-dien-cho-bo-vo-roi-san-tim-vo-sat-hai-da-man-o-ha-noi-622690.html
+Error: list index out of range
+Error from url: https://vnexpress.net/huy-tran-duc-italy-4069335-tong-thuat.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/goc-phu-huynh/vinh-long-cho-hoc-sinh-lop-12-nghi-tranh-dich-covid-19-tu-12-3-623588.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/gioi-tre/hot-girl-tram-anh-xuat-hien-voi-guong-mat-khac-la-nghi-tham-my-626308.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/ung-dung/cach-an-xoa-go-the-hang-loat-bai-viet-cung-luc-tren-facebook-627540.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/phat-loat-nha-hang-noi-tieng-da-nang-vi-luu-giu-cac-loai-ca-cuc-quy-632145.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/bo-suu-tap-xe-co-tri-gia-10-trieu-usd-duoc-tang-cho-truong-dai-hoc-621080.html
+Error: list index out of range
+Error from url: https://vnexpress.net/bong-da-chau-au-te-liet-4068600-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/samsung-gioi-thieu-galaxy-z-flip-va-bo-ba-galaxy-s20-4053583-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/nu-viet-nam-choc-thung-luoi-australia-4067744-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/tp-hcm-doc-chiem-dinh-bang-afc-cup-4067218-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/ha-noi-thang-tran-ra-quan-v-league-2020-4065808-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/hagl-thang-tran-ra-quan-v-league-4065351-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/nu-viet-nam-thua-australia-4065161-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/interactive/2020/nhung-nguoi-tren-tuyen-dau-chong-dich-4060113
+Error: list index out of range
+Error from url: https://vnexpress.net/ha-noi-doat-sieu-cup-quoc-gia-2020-4062503-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/samsung-galaxy-fold-doat-giai-dien-thoai-xuat-sac-tech-awards-4039200-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/thach-thuc-bao-mat-di-doi-cung-co-hoi-4038467-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/cong-phuong-lai-ghi-ban-cho-tp-hcm-4060129-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/fury-thang-knock-out-wilder-4059068-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/parasite-la-phim-xuat-sac-oscar-2020-4052689-tong-thuat.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/pho-thu-tuong-chi-dao-khan-truong-dieu-tra-vu-giet-5-nguoi-o-thai-nguyen-603785.html
+Error: list index out of range
+Error from url: https://vnexpress.net/billie-eilish-dai-thang-grammy-2020-4047026-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/tp-hcm-hoa-tran-ra-quan-afc-cup-4053568-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/nu-viet-nam-thua-han-quoc-4052481-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-gianh-suat-play-off-olympic-4051383-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/h-hen-nie-la-my-nhan-cua-nam-2019-4042761-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/djokovic-vo-dich-australia-mo-rong-2020-4049164-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/hdbank-tang-truong-than-toc-sau-30-nam-4036692-tong-thuat.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/tai-chinh/donald-trump-quyet-manh-nuoc-anh-ran-tay-cuoc-dua-nong-hon-bao-gio-het-623454.html
+Error: list index out of range
+Error from url: https://vnexpress.net/han-quoc-vao-chung-ket-u23-chau-a-4046037-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/uzbekistan-thanh-cuu-vuong-o-u23-chau-a-4046001-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/joaquin-phoenix-doat-giai-qua-cau-vang-4037654-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/tp-hcm-dung-buoc-o-afc-champions-league-4045508-tong-thuat.html
+Error: HTTP Error 400: Bad Request
+Error from url: https://vietnamnet.vn/vn/thoi-su/thu-tuong-yeu-cau-giam-gian-so-hoc-sinh-trong-phong-hoc-hoc-lech-gio-636460.html
+Error: list index out of range
+Error from url: https://vnexpress.net/uzbekistan-thang-dam-uae-4044340-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/han-quoc-thang-jordan-phut-chot-4044324-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/thai-lan-dung-buoc-o-tu-ket-u23-chau-a-4044078-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/uae-cung-jordan-vao-tu-ket-4043180-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-dung-buoc-o-u23-chau-a-4043269-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/han-quoc-nhat-bang-c-4042674-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/iran-bi-loai-du-thang-trung-quoc-4042710-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/thai-lan-vao-tu-ket-u23-chau-a-4042205-tong-thuat.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/39-nguoi-chet-o-anh-som-thong-bao-danh-tinh-ve-dia-phuong-gia-dinh-585295.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/nguoi-my-ton-chi-phi-nhat-khi-so-huu-xe-ban-tai-636571.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ky-su-phap-dinh/chang-re-thanh-hoa-lai-o-to-tong-gia-dinh-nha-vo-1-nguoi-tu-vong-592001.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/dieu-dong-bo-nhiem-nhan-su-tp-hcm-quang-ngai-585248.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/ung-dung/cach-su-dung-tinh-nang-phong-to-noi-dung-tren-apple-watch-596073.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-hoa-tran-thu-hai-giai-u23-chau-a-4041615-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/trieu-tien-bi-loai-o-u23-chau-a-4041549-tong-thuat.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/tu-van-tai-chinh/phat-den-75-trieu-hanh-vi-nguoc-dai-nguoi-lao-dong-621988.html
+Error: list index out of range
+Error from url: https://vnexpress.net/uzbekistan-khien-trung-quoc-bi-loai-4041053-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/thai-lan-thua-nguoc-o-u23-chau-a-4040781-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/jordan-chiem-dau-bang-d-4040452-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-hoa-uae-o-giai-u23-chau-a-4040296-tong-thuat.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/cang-thang-gia-tang-huawei-chuyen-trung-tam-nghien-cuu-khoi-my-594639.html
+Error: list index out of range
+Error from url: https://vnexpress.net/han-quoc-ha-trung-quoc-o-u23-chau-a-4039925-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/nhat-ban-thua-tran-ra-quan-tai-u23-chau-a-4039931-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/uzbekistan-chia-diem-voi-iran-4039825-tong-thuat.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/thu-tuong-du-khai-mac-phien-hop-toan-the-hoi-nghi-cap-cao-asean-35-584413.html
+Error: list index out of range
+Error from url: https://vnexpress.net/oppo-reno2-ra-mat-thi-truong-viet-nam-voi-gia-14-99-trieu-3997024-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/thai-lan-thang-bahrain-5-0-4039326-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/nguoi-dep-jamaica-dang-quang-miss-world-2019-4027355-tong-thuat.html
+Error: HTTP Error 404: Not Found
+Error from url: https://vnexpress.net/tong-thuat/startup-2019/viec-co-doat-giai-quan-quan-startup-viet-2019-4020952.html
+Error: HTTP Error 404: Not Found
+Error from url: https://vnexpress.net/tong-thuat/startup-2019/startup-muon-thanh-ky-lan-can-tu-duy-dai-han-4020765.html
+Error: list index out of range
+Error from url: https://vnexpress.net/nguoi-dep-nam-phi-dang-quang-miss-universe-2019-4024168-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/khanh-van-dang-quang-hoa-hau-hoan-vu-viet-nam-2019-4023818-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/apple-trinh-lang-3-iphone-moi-3980180-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/interactive/2019/cam-on-doan-the-thao-viet-nam-4025689
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-vo-dich-sea-games-30-4025194-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-dung-thu-hai-toan-doan-o-sea-games-30-4024858-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/sea-games-ngay-9-12-viet-nam-gianh-80-hc-vang-4024272-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-gianh-hc-vang-bong-da-nu-sea-games-4024149-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-gianh-20-hc-vang-sea-games-ngay-8-12-4023996-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-vao-chung-ket-sea-games-30-4023646-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/indonesia-gianh-ve-dau-tien-vao-chung-ket-sea-games-4023762-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/sea-games-ngay-7-12-dien-kinh-co-hc-vang-dau-tien-4023630-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/sea-games-ngay-6-12-viet-nam-mat-vi-tri-thu-nhi-toan-doan-4023054-tong-thuat.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/thong-tin-truyen-thong/truong-dao-tao-boi-duong-can-bo-quan-ly-tt-tt-phai-di-dau-ca-nuoc-trong-viec-ap-dung-cong-nghe-so-vao-dao-tao-578939.html
+Error: list index out of range
+Error from url: https://vnexpress.net/nu-viet-nam-tai-ngo-thai-lan-o-chung-ket-4022966-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-loai-thai-lan-o-sea-games-30-4022705-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/sea-games-ngay-5-12-huy-hoang-pha-sau-ky-luc-dai-hoi-4022437-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/sea-games-ngay-4-12-dinh-phuong-thanh-doat-cu-dup-hc-vang-4021817-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/indonesia-thang-cach-biet-nhat-o-sea-games-30-4021731-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-tien-gan-ban-ket-sea-games-30-4021700-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/thai-lan-thang-lao-nho-hai-ban-cuoi-tran-4021570-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/sea-games-ngay-3-12-wushu-giai-con-khat-hc-vang-4021231-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/samsung-trinh-lang-galaxy-note10-va-note10-3964285-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/sea-games-ngay-2-12-con-mua-vang-tu-vo-kurash-4020704-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-thang-nguoc-indonesia-phut-cuoi-4020578-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/thai-lan-gay-ap-luc-len-viet-nam-va-indonesia-4020534-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/sea-games-2019-bat-dau-4020283-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/nu-viet-nam-vao-ban-ket-sea-games-2019-4019700-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/thai-lan-tro-lai-bang-tran-dai-thang-brunei-4019055-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-gia-co-dinh-bang-b-4019057-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/nu-viet-nam-tuot-chien-thang-truoc-thai-lan-4017888-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/indonesia-thang-thai-lan-2-0-4017898-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-thang-dam-tran-ra-quan-sea-games-30-4017305-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/mourinho-thang-tran-dau-dan-dat-tottenham-4016728-tong-thuat.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/san-pham/o-cung-ssd-sap-re-nhu-cho-nho-cong-nghe-nay-cua-intel-va-toshiba-572449.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/tai-chinh/cach-lua-dao-tinh-vi-moi-xuat-hien-khong-biet-co-the-bay-sach-tai-khoan-615445.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/co-so-dao-tao-lai-xe-phai-lap-thiet-bi-giam-sat-hoc-vien-576065.html
+Error: list index out of range
+Error from url: https://vnexpress.net/malaysia-qua-mat-thai-lan-o-bang-g-4014765-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-bat-phan-thang-bai-voi-thai-lan-4014761-tong-thuat.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/tin-cong-nghe/nu-tuong-le-diep-kieu-trang-roi-ghe-ceo-go-viet-569041.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/am-thuc/cach-lam-mut-dua-non-don-tet-nguyen-dan-khong-bi-chay-nuoc-593431.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/goc-phu-huynh/phat-ngon-vo-cam-chuyen-hoc-sinh-gay-chan-hieu-truong-bi-xem-xet-ky-luat-563823.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/san-pham/microsoft-sap-ra-mat-thiet-bi-man-hinh-gap-khien-doi-thu-khoc-thet-568940.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/moi-tin-nhan-ung-ho-15-000-cho-benh-nhan-ung-thu-ngheo-574853.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/du-lich/tai-sao-phi-cong-khong-duoc-de-rau-co-seo-tren-nguoi-593419.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/thoi-su/bien-dong-con-nong-thang-7-551844.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/goc-phu-huynh/le-khai-giang-chua-day-30-phut-cua-mot-truong-quoc-te-563766.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/du-lich/mai-me-tu-suong-giua-canh-lut-loi-du-khach-say-chan-roi-tom-xuong-nuoc-593414.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/5-mau-xe-cho-nguyen-thu-dat-nhat-the-gioi-573731.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/biontech-tiep-suc-doanh-nhan-chinh-phuc-olympic-2030-574816.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://vietnamnet.vn/vn/thoi-su/chan-tuong-nguyen-thai-luyen-ceo-no-cua-dia-oc-alibaba-568971.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/du-lich/thanh-pho-nguoi-chet-duoi-long-dai-duong-593407.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/vi-sao-cac-hang-xe-dua-nhau-nhap-khau-o-to-nho-gia-re-573730.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/chu-tich-tong-lien-doan-lao-dong-viet-nam-lam-bi-thu-dak-lak-551770.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/bo-cong-an-khoi-to-vu-an-hinh-su-tai-cuc-quan-ly-duoc-568961.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/tin-cong-nghe/nhan-vien-facebook-google-dinh-cong-ngay-iphone-11-mo-ban-568881.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/tu-van-tai-chinh/cach-gui-tiet-kiem-thong-minh-lai-suat-tot-nhat-614358.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/tam-su/gai-hien-dai-sinh-trai-tay-va-cai-ket-dang-593403.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/nguoi-thay/so-mat-viec-hon-50-giao-vien-gui-tam-thu-toi-bi-thu-tinh-uy-quang-ninh-563718.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/cac-nha-san-xuat-oto-lon-dang-so-huu-thuong-hieu-nao-573723.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/doi-song/gioi-tre/van-lam-lien-tuc-khoe-anh-nguoi-than-uu-ai-nhat-em-gai-ut-593400.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/cong-dong-mang/da-co-nguoi-kiem-che-duoc-quyen-luc-cua-da-co-nguoi-kiem-che-duoc-quyen-luc-cua-ceo-facebook-mark-zuckerberg-568879.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/gia-toc-samsung-deo-bam-mai-mot-benh-di-truyen-teo-co-mac-dang-so-574532.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/tu-van-tai-chinh/mot-so-thay-doi-lien-quan-den-chinh-sach-bhxh-bhyt-tu-2020-614356.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/ong-bui-van-khanh-lam-chu-tich-tinh-hoa-binh-551762.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/tuyen-sinh/cuc-truong-vu-truong-cua-bo-gd-dt-bi-xem-xet-ky-luat-sau-vu-gian-lan-thi-cu-563682.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/gia-xe/gia-xe-may-thang-10-honda-tang-gia-yamaha-giam-gia-573720.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/cac-loai-benh/ung-thu/duy-tri-10-thoi-quen-moi-ngay-ung-thu-kho-toi-gan-ban-574454.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/du-lich/phong-khach-san-gia-50-000-usd-dem-may-man-moi-duoc-thue-593398.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/mau-xe-ti-hon-cua-bmw-tro-thanh-nguoi-hung-trong-bo-phim-de-tai-chien-tranh-573718.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/ub-kiem-tra-tinh-binh-thuan-cong-bo-quyet-dinh-nhan-su-cua-ban-bi-thu-551721.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/gio-to-hung-vuong-nguoi-lao-dong-duoc-nghi-may-ngay-614340.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/san-pham/cum-camera-sieu-xau-cua-iphone-11-se-duoc-dua-len-ipad-moi-568838.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/phan-mem-cai-thien-chat-luong-bua-an-ban-tru-cho-hoc-sinh-lao-cai-563661.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/du-lich/phao-dai-co-tren-dinh-cot-da-cao-300-m-593396.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/cac-loai-benh/nam-khoa/cau-nho-nam-thanh-nien-chay-mu-sau-khi-oral-sex-o-quan-karaoke-574384.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/kham-pha/supercub-50-chay-hon-1-000-km-chi-ton-mot-lit-xang-o-ha-noi-573705.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/thong-tin-bat-ngo-vu-be-gai-trong-vu-an-hiep-dam-bi-chem-tren-duong-636513.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/san-pham/nhung-tinh-nang-thieu-vang-dang-tiec-tren-iphone-11-568835.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/tu-van-tai-chinh/ly-do-hanh-khach-phai-len-may-bay-tu-cua-ben-trai-614326.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/cac-loai-benh/ung-thu/co-gai-21-tuoi-da-bi-ung-thu-da-day-bac-si-canh-bao-thoi-quen-xau-o-gioi-tre-574364.html
+Error: list index out of range
+Error from url: https://vnexpress.net/malaysia-ha-thai-lan-o-vong-loai-world-cup-4012496-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/sieu-pham-cua-tien-linh-giup-viet-nam-ha-uae-4012445-tong-thuat.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/toyota-hilux-gay-an-tuong-o-giai-dua-voc-2019-573691.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/tu-van-suc-khoe/phat-hien-dua-co-nhung-dac-diem-nay-can-vut-ngay-keo-an-phai-chat-gay-ung-thu-574359.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/o-to-phap-gia-93-trieu-chat-luong-the-nao-573640.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/thu-tuong-yeu-cau-giam-gian-so-hoc-sinh-trong-phong-hoc-hoc-lech-gio-636460.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/tu-van-suc-khoe/dau-phong-duoc-goi-la-than-duoc-nhung-3-nguoi-nay-can-tranh-574356.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/gioi-tre/gioi-tre-viet-phat-trien-su-nghiep-bang-tro-choi-dien-tu-593240.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/tu-van-tai-chinh/6-sai-lam-nen-tranh-de-co-chuyen-bay-thuan-loi-614321.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/co-gai-can-tho-co-nguoi-chet-vi-dich-covid-19-bi-de-nghi-truy-to-636665.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/thoi-su/khong-co-chuyen-lhq-ton-vinh-viet-nam-la-nuoc-dau-tien-day-lui-dai-dich-636362.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/cua-ca-mau-rot-gia-tham-thuy-san-xuat-sang-trung-quoc-bi-ton-dong-lon-614261.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/cac-loai-benh/nhi-khoa/be-gai-7-tuoi-day-thi-som-vi-ngu-bat-den-suot-3-nam-574231.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/viet-nam-ra-soat-toan-bo-khach-quoc-te-de-cach-ly-614259.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/dieu-kien-thu-tuc-ho-tro-nguoi-dan-gap-kho-khan-do-dich-covid-19-636653.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/trac-nghiem/dung-suy-luan-de-tim-ra-cua-song-duy-nhat-563540.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/anh-trai-chet-vi-benh-tim-em-gai-3-tuoi-may-man-tinh-day-voi-trai-tim-moi-574130.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/co-gai-xinh-dep-o-can-tho-cung-ban-chua-ma-tuy-trong-phong-tro-636660.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/trac-nghiem/trong-30-giay-hay-tim-tat-ca-so-hinh-vuong-co-trong-hinh-563531.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/tam-su/tam-su-cua-anh-tho-dien-bat-qua-tang-vo-ngoai-tinh-593157.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/sap-bay-chan-dai-chu-thau-xay-dung-bi-bat-coc-tren-nui-son-tra-568894.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/vi-giao-su-30-nam-dau-dau-voi-uoc-nguyen-cuu-hang-ngan-benh-nhi-hiem-ngheo-574129.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/trac-nghiem/thu-tai-tinh-mat-tim-con-so-an-trong-buc-hinh-563506.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/du-lich/phat-hien-du-khach-trung-quoc-gia-tan-tat-sang-viet-nam-an-xin-593130.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/tai-chinh/tin-chung-khoan-ngay-6-2-nhung-con-so-bien-dong-cua-ong-lon-nha-dat-ty-usd-614210.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/hang-loat-xe-hyundai-bi-dap-chieu-tai-nhieu-cang-o-my-636587.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/trac-nghiem/dap-an-dung-tri-thong-minh-bien-phep-tinh-thanh-dung-ngay-29-8-563485.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/uy-ban-thuong-vu-quoc-hoi-phe-chuan-nhan-su-moi-551564.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/mercedes-benz-citaro-tro-thanh-xe-cuu-thuong-cho-benh-nhan-covid-19-lon-nhat-the-gioi-636657.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/tai-chinh/dieu-kien-nghi-huu-va-muc-tinh-luong-huu-truoc-tuoi-nam-2020-614193.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/gia-dinh/nhung-thong-tin-chua-biet-ve-cau-be-song-co-doc-trong-rung-o-tuyen-quang-593095.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/san-pham/so-hieu-nang-iphone-se-2020-gia-re-cho-iphone-xs-max-hit-khoi-636187.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/ban-bi-thu-trung-uong-dang-chuan-y-nhan-su-moi-551535.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ky-su-phap-dinh/tam-hoan-xu-trum-go-lau-phuong-rau-vi-1-bi-cao-phai-nhap-vien-568857.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/trac-nghiem/dap-an-bai-toan-hinh-hoc-ngay-28-8-563481.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/dau-gia-sieu-xe-porsche-911-speedster-de-ho-tro-nan-nhan-covid-19-636590.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/ung-dung/2-cach-huy-chuong-trinh-dung-thu-ung-dung-tren-ios-de-tranh-bi-tru-tien-oan-634768.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/cong-bo-quyet-dinh-thu-tuong-ve-cong-tac-can-bo-551503.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/nguoi-dan-ong-ha-noi-song-lai-nho-la-phoi-cua-chang-trai-20-tuoi-574081.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/nguoi-my-ton-chi-phi-nhat-khi-so-huu-xe-ban-tai-636571.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/interpol-dua-ong-chu-nhat-cuong-mobile-vao-danh-sach-truy-na-do-568802.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/sau-tay-lai/be-gai-4-thang-tuoi-chet-trong-o-to-duoi-troi-nang-573632.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/thu-tuong-lam-viec-voi-hoi-dong-danh-gia-trang-thai-thi-hai-bac-551478.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ky-su-phap-dinh/trieu-tap-hieu-truong-truong-thpt-chuyen-ha-giang-hoan-phien-toa-den-14-10-568780.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/thuc-nghiem-hien-truong-vu-giet-nguoi-giau-xac-trong-be-tong-o-binh-duong-568767.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/ong-nguyen-van-thang-giu-chuc-chu-tich-ubnd-tinh-quang-ninh-551477.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/bao-mat/edward-snowden-ra-hoi-ky-chinh-phu-my-lap-tuc-khoi-kien-568770.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tu-van/thanh-pho-thoi-o-nhiem-nen-quan-tam-toi-loc-khong-khi-trong-o-to-573464.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/doanh-nhan/chan-dung-nu-doanh-nhan-cam-dau-bang-toi-pham-o-thai-binh-636616.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/an-mang-o-thai-nguyen-thu-tuyet-menh-co-giup-bui-xuan-hong-giam-an-568755.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/doi-song/gia-dinh/mam-com-40-nghin-6-nguoi-an-cua-me-bim-sua-khien-chi-em-tranh-cai-636668.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/trac-nghiem/ban-biet-gi-ve-giai-thoai-cua-nhung-nha-khoa-hoc-noi-tieng-the-gioi-563204.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/kham-pha/mclaren-720s-dau-tien-ve-viet-nam-ha-gia-ban-11-ty-573104.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/kim-chay-trong-mong-co-gai-suot-8-thang-573853.html
+Error: timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/lam-dep/cach-cham-soc-da-mua-hanh-kho-hieu-qua-nhat-573714.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/bat-giam-chap-hanh-vien-cuc-thi-hanh-an-dan-su-o-binh-dinh-568610.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/thong-tin-truyen-thong/lotus-thanh-cong-hay-khong-phu-thuoc-vao-chinh-chung-ta-568339.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/4-cach-khien-tre-thich-hoc-tieng-anh-bo-me-khong-phai-ep-563190.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/tam-su/tam-su-vi-em-con-yeu-nhung-niem-tin-da-mat-593020.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/mua-khau-trang-tren-facebook-nhan-hop-hang-la-cay-614159.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/tuyen-sinh/cong-bo-diem-chuan-cong-an-he-trung-cap-563188.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/thuong-hieu-tao-xu-huong-chien-luoc-marketing-cua-vivo-568244.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/hoat-chat-nguon-goc-tu-nhien-ho-tro-day-lui-viem-khop-573712.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/giao-duc/goc-phu-huynh/100-hoc-sinh-phai-tap-the-duc-buoi-sang-giua-gio-563176.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ky-su-phap-dinh/tai-nan-8-nguoi-chet-o-hai-duong-tai-xe-linh-13-nam-tu-568609.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/di-mua-khau-trang-toi-duoc-dui-vao-tay-mot-tui-nylon-den-614158.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/tuyen-sinh/bo-truong-giao-duc-su-kien-dong-do-la-dip-tot-de-chan-chinh-cac-truong-563064.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/san-phu-o-nghe-an-tu-vong-sau-khi-sinh-thuong-573710.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tu-van/o-to-bat-ngo-bi-xit-lop-giua-duong-xu-ly-the-nao-573098.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/san-pham/cong-nghe-tro-ly-ao-don-gian-hoa-viec-to-chuc-su-kien-568241.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://vietnamnet.vn/vn/suc-khoe/hoat-chat-ho-tro-hieu-qua-cho-nguoi-bi-viem-khop-573708.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/bien-dong-hoat-dong-cua-nuoc-ngoai-la-vo-gia-tri-neu-khong-duoc-phep-550786.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ky-su-phap-dinh/trum-go-lau-phuong-rau-dua-tien-de-dan-em-lo-lot-kiem-lam-568507.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://vietnamnet.vn/vn/suc-khoe/bac-si-ke-hanh-trinh-mo-kim-trong-nguc-be-gai-3-tuoi-636663.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/kham-pha/dan-xe-tram-ty-cua-minh-nhua-ve-tp-hcm-trong-dem-sau-7-ngay-du-lich-572659.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/ung-dung/cach-vua-quay-video-vua-chup-anh-tren-iphone-11-11-pro-va-11-pro-max-568163.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/gan-47-000-tan-thit-lon-tran-ve-re-bang-nua-gia-hang-ngoai-cho-636551.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/nguoi-thay/giao-vien-nghi-huu-chua-huong-tham-nien-duoc-tro-cap-mot-lan-562739.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/benh-nhan-253-toi-hoang-loan-thuc-trang-nhieu-dem-khi-duong-tinh-ncov-636604.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/them-nhieu-tinh-nang-hap-dan-gapo-hut-2-trieu-nguoi-dung-568114.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/giao-duc/nguoi-thay/man-chao-hoi-dac-biet-theo-y-tre-cua-co-tro-mam-non-562655.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/xa-doi-truong-o-ha-tinh-bi-phat-8-nam-tu-vi-chem-chau-ruot-tu-vong-568501.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/gioi-tre/gu-mac-doi-thuong-cua-nu-mc-tre-nhat-vtv-636623.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/doanh-nhan/con-trai-chu-tich-chi-400-ty-dong-mua-co-phieu-636507.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tu-van/5-nguyen-tac-can-nho-khi-lai-xe-qua-vung-ngap-nuoc-572650.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/su-dung-o-to-cong-vao-viec-tu-bi-phat-toi-20-trieu-dong-550781.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/gioi-tre/3-thang-giam-gan-30kg-nu-sinh-phu-nhan-lot-xac-nho-dao-keo-592610.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ky-su-phap-dinh/nguoi-phu-nu-dua-22-banh-ma-tuy-tu-lao-ve-linh-an-tu-hinh-568492.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/xuat-khau-gan-4-trieu-khau-trang-y-te-sang-trung-quoc-614058.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/bao-mat/bao-my-noi-trieu-tien-co-3-nhom-hacker-cuc-manh-568072.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/chiec-sofa-xanh-giam-cang-thang-cho-bac-si-anh-trong-dich-covid-19-636346.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/chinh-phu-xay-dung-co-che-dieu-phoi-vung-du-manh-cho-dbscl-550777.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/trac-nghiem/dap-an-3-thu-thach-tim-diem-khac-nhau-ngay-27-8-562623.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/bat-nhom-nguoi-trung-quoc-to-chuc-tin-dung-den-vo-cung-tinh-vi-568471.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/trac-nghiem/thu-thach-voi-bai-toan-hinh-hoc-562616.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/song-la/chang-trai-cuoi-me-cua-ban-than-592603.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tu-van/xu-ly-su-co-xep-banh-xe-tren-cac-xe-vespa-co-572643.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/nong-san-tac-o-cua-khau-bat-dau-duoc-thong-quan-sang-trung-quoc-614050.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/bao-mat/lo-hong-moi-cho-phep-xam-nhap-ios-13-danh-cap-danh-ba-dien-thoai-568068.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/bo-y-te-yeu-cau-tat-ca-cac-tinh-bao-cao-vu-mua-may-xet-nghiem-covid-19-636570.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/46-tinh-thanh-chuan-bi-sap-nhap-20-huyen-va-653-xa-550729.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/doi-song/tam-su/nu-hieu-pho-bi-ca-gia-dinh-quay-lung-khi-ngoai-tinh-voi-bao-ve-592597.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/goc-phu-huynh/hoc-sinh-tu-tu-tai-nha-vi-ap-luc-hoc-tap-chan-dong-malaysia-562583.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/sau-tay-lai/may-man-ky-la-cua-nguoi-phu-nu-bi-cuon-vao-gam-xe-dien-572576.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/nhung-sai-sot-trong-vu-ly-hon-cua-vo-chong-ong-chu-trung-nguyen-568460.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/thoi-su/chu-tich-can-tho-chi-thi-xu-nghiem-can-bo-nhau-trong-gio-lam-viec-550585.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/tu-van-suc-khoe/mun-o-mui-chay-mau-khi-rua-mat-khong-ngo-mac-ung-thu-573492.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/san-pham/nhung-diem-tru-cua-iphone-11-trong-cuoc-dua-voi-galaxy-note10-567759.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/hai-duong-mo-hoi-nghi-ho-tro-tu-van-doanh-nghiep-phat-trien-cong-nghiep-ho-tro-614027.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/thu-tuong-nghe-cac-tinh-dbscl-va-tp-hcm-gop-y-chien-luoc-phat-trien-550572.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/tu-van-suc-khoe/4-dau-hieu-de-thay-o-ban-chan-canh-bao-gan-dang-yeu-573478.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/guong-mat-tre/nu-sinh-ngheo-tuong-phai-bo-dh-duoc-ha-noi-da-nhap-hoc-562565.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/gia-dinh/cap-doi-30-60-tuoi-bi-chi-trich-nguoi-phu-nu-noi-1-cau-khien-tat-ca-im-lang-592554.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/bo-suu-tap-sam-hoang-that-gia-tien-ty-cua-dai-gia-ha-thanh-614024.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/ban-thu-nghiem-mang-xa-hoi-lotus-bat-dau-chay-tu-16-9-567744.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/chong-o-nam-dinh-danh-vo-roi-bo-ra-ngoai-khi-quay-ve-vo-da-chet-568459.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/du-lich/hang-mua-dong-thien-ha-gay-an-tuong-manh-tren-truyen-hinh-han-592551.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/guong-mat-tre/nu-sinh-ha-tinh-gay-chu-y-voi-chum-anh-nhat-ky-bao-ve-moi-truong-562488.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/quoc-hoi/pho-chu-tich-quoc-hoi-1-co-phuc-vu-2-dau-khong-biet-ngoai-kieu-nao-550489.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/canh-giac-voi-cuoc-goi-lua-dao-tu-nuoc-ngoai-614021.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/lat-tay-su-giau-sang-cua-phuc-xo-ke-noi-danh-nho-deo-nhieu-vang-568444.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/sau-tay-lai/cho-cung-bam-coi-xe-o-to-giuc-chu-vi-ra-ngoai-qua-lau-572557.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/kham-pha/ca-si-chi-dan-khoe-porsche-macan-tien-ty-moi-tau-572552.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/trung-quoc-te-liet-vi-corona-nhieu-nganh-cua-viet-nam-lo-ngay-ngay-614006.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/gioi-tre/cuoc-song-hanh-phuc-cua-hoa-khoi-dh-vinh-va-cau-thu-que-ngoc-hai-592539.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/san-pham/ly-do-nen-chon-galaxy-note10-thay-vi-iphone-11-khi-so-sanh-ve-nhiep-anh-567529.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/gan-4-gio-li-ki-trong-phong-mo-tach-cap-song-sinh-dinh-lien-co-chung-mot-la-gan-573444.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/bat-nhom-nguoi-trung-quoc-thue-be-gai-dong-phim-sex-568438.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/tin-cong-nghe/cong-nghe-thu-7-iphone-11-ra-mat-ty-phu-jack-ma-thoi-chuc-chu-tich-alibaba-567527.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/gia-xe/loat-xe-mazda-thanh-ly-gia-chi-tu-50-trieu-dong-572462.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/khach-du-lich-nuoc-ngoai-bi-nhoi-mau-co-tim-duoc-bac-si-viet-cuu-song-573433.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/xuat-khau-nong-lam-thuy-san-lao-doc-se-chiu-tac-dong-lon-vi-virus-corona-613999.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/doi-song/gia-dinh/coc-bia-cuoi-cung-cua-nguoi-dan-ong-bi-ung-thu-592475.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/no-sung-hon-chien-giua-trung-tam-vung-tau-nhieu-nguoi-guc-tai-cho-568402.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/sau-tay-lai/tai-xe-say-ruou-phong-xe-167-km-h-dam-dai-phan-cach-572403.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/phong-corona-hai-phong-phat-lenh-dong-cua-le-hoi-rap-chieu-phim-karaoke-vu-truong-613997.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/vu-khi-giup-cac-cap-hiem-muon-chuyen-phoi-that-bai-nhieu-lan-can-dich-573420.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/tron-khoi-trai-giam-doi-ten-moi-de-cuoi-vo-va-bi-bat-sau-23-nam-568359.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/xuat-khau-trang-sang-trung-quoc-khong-phai-xin-phep-613989.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-du-vong-chung-ket-u19-chau-a-4010205-tong-thuat.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/tin-tuc/hang-loat-xe-hyundai-bi-dap-chieu-tai-nhieu-cang-o-my-636587.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/nguoi-dan-khi-vao-vien-co-the-tu-che-vac-xin-ngua-benh-573398.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/hanh-khach-vietjet-trung-may-bay-1-ky-vang-613947.html
+Error: list index out of range
+Error from url: https://vnexpress.net/quang-hai-va-hlv-park-chien-thang-o-aff-awards-4009613-tong-thuat.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/giao-duc/goc-phu-huynh/buc-anh-day-song-mot-ngay-di-hoc-cua-em-be-5-tuoi-561593.html
+Error: <urlopen error _ssl.c:1059: The handshake operation timed out>
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/kham-pha/can-canh-lamborghini-aventador-svj-63-dau-tien-tai-dong-nam-a-571744.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ho-so-vu-an/bat-ke-du-be-trai-12-tuoi-vao-san-van-dong-do-tro-doi-bai-o-dak-lak-567737.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/tin-cong-nghe/qualcomm-apple-con-lau-moi-tu-san-xuat-duoc-chip-5g-566566.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-thang-tran-ra-quan-o-vong-loai-u19-chau-a-4008444-tong-thuat.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/tai-chinh/ty-gia-ngoai-te-ngay-4-2-usd-tang-manh-613555.html
+Error: list index out of range
+Error from url: https://vnexpress.net/oppo-reno-ra-mat-viet-nam-voi-camera-zoom-10x-gia-20-99-trieu-dong-3934626-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/ha-noi-lan-dau-doat-cup-quoc-gia-4005491-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/hoc-vien-ky-thuat-quan-su-chien-thang-cuoc-dua-so-2019-3929055-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/ha-noi-vao-chung-ket-cup-quoc-gia-4003198-tong-thuat.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/thi-truong/bi-mat-thu-vi-sau-bao-li-xi-dip-nam-moi-khong-phai-ai-cung-biet-611682.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/kham-pha/sieu-xe-hon-80-ty-la-vat-trang-tri-tai-le-cuoi-con-gai-minh-nhua-565936.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-can-co-khai-niem-co-khoi-nghiep-3917242-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/thai-lan-ha-uae-chiem-dinh-bang-g-3997432-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-de-bep-indonesia-o-vong-loai-world-cup-2022-3997289-tong-thuat.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/oto-xe-may/kham-pha/mercedes-maybach-s650-dat-vang-hong-toan-bo-noi-that-564264.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-ha-malaysia-o-vong-loai-world-cup-2022-3994911-tong-thuat.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/buoc-ra-khoi-vung-an-toan-viettel-mozambique-tang-truong-gap-10-lan-609888.html
+Error: list index out of range
+Error from url: https://vnexpress.net/projects/danh-gia-samsung-galaxy-s10-3901136/index.html
+Error: list index out of range
+Error from url: https://vnexpress.net/oppo-f11-pro-co-gia-8-49-trieu-dong-tai-thi-truong-viet-nam-3901544-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/interactive/2019/nhung-cap-nhat-dang-chu-y-tren-oppo-f11-pro-sap-ra-mat-3899491
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-chung-bang-voi-trieu-tien-jordan-uae-3987869-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/ha-noi-hoa-4-25-sc-o-luot-di-chung-ket-afc-cup-3987446-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/doan-van-hau-du-bi-trong-tran-hoa-cua-heerenveen-3985776-tong-thuat.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/ung-dung/robot-dong-vat-ho-tro-cam-xuc-nhu-that-544741.html
+Error: list index out of range
+Error from url: https://vnexpress.net/luong-thuy-linh-la-hoa-hau-the-gioi-viet-nam-2019-3962335-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/galaxy-s10-len-ke-tai-the-gioi-di-dong-voi-gia-20-99-trieu-dong-3888957-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/malaysia-thua-nguoc-uae-3980267-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/thai-lan-de-bep-indonesia-3980252-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/samsung-ra-dien-thoai-gap-va-bon-phien-ban-galaxy-s10-3883993-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-hoa-tren-san-thai-lan-3977867-tong-thuat.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/san-pham/huawei-da-duoc-dang-ky-ban-quyen-cho-he-dieu-hanh-hongmeng-534548.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/clip-nong/vuot-bien-trai-phep-xach-ma-tuy-giao-dich-trong-rung-sau-o-nghe-an-633384.html
+Error: list index out of range
+Error from url: https://vnexpress.net/bo-truong-xay-dung-khong-loai-tru-quy-hoach-khu-do-thi-bi-dieu-chinh-vi-suc-ep-nao-do-3933433-tong-thuat.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/phap-luat/ky-su-phap-dinh/so-phan-khoi-tai-san-vu-nhom-duoc-giao-trai-phap-luat-540914.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/ung-dung/2-cach-huy-chuong-trinh-dung-thu-ung-dung-tren-ios-de-tranh-bi-tru-tien-oan-634768.html
+Error: list index out of range
+Error from url: https://vnexpress.net/interactive/2019/dau-an-cua-sony-tren-thi-truong-tv-oled-cao-cap-3870470
+Error: list index out of range
+Error from url: https://vnexpress.net/ha-noi-vao-chung-ket-lien-khu-vuc-afc-cup-3973709-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-vo-dich-bong-da-nu-dong-nam-a-2019-3973749-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/projects/vinamilk-xay-to-hop-resort-bo-sua-organic-5-000-ha-tai-lao-3928669/index.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/kinh-doanh/doanh-nhan/nhung-con-so-trong-vu-an-nguyen-huu-tin-giup-vu-nhom-lay-dat-vang-603912.html
+Error: The read operation timed out
+Error from url: http://vietnamnet.vn/vn/cong-nghe/san-pham/galaxy-s10-5g-thiet-lap-moc-sang-chanh-moi-khi-ban-voi-gia-1-300-usd-532327.html
+Error: list index out of range
+Error from url: https://vnexpress.net/galaxy-note9-doat-giai-dien-thoai-xuat-sac-cua-tech-awards-2018-3865816-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/robot-se-tro-thanh-nguoi-than-trong-gia-dinh-3865690-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/ha-noi-thang-luot-di-ban-ket-lien-khu-vuc-afc-cup-2019-3970362-tong-thuat.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/quoc-phong/hang-chuc-chien-si-bien-phong-hoan-cuoi-nguoi-than-mat-khong-ve-vi-corona-631470.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/clip-nong/dieu-dac-biet-o-ca-mo-benh-nhan-ung-thu-khi-benh-vien-bach-mai-bi-cach-ly-631454.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/giao-dan-91-tuoi-o-ha-tinh-ung-ho-hon-1-tan-gao-chong-dich-covid-19-631423.html
+Error: list index out of range
+Error from url: https://vnexpress.net/dien-thoai-vinsmart-co-gia-tu-2-49-trieu-dong-3854362-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/bo-truong-nguyen-manh-hung-doanh-thu-noi-dung-so-dang-le-4-ty-usd-nay-moi-mot-ty-3921059-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/thu-tuong-doi-moi-cong-nghe-la-yeu-to-song-con-cua-nen-kinh-te-3920775-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/thai-lan-ha-malaysia-o-giai-u18-dong-nam-a-3968112-tong-thuat.html
+Error: list index out of range
+Error from url: https://vnexpress.net/viet-nam-bi-loai-o-giai-u18-dong-nam-a-3968115-tong-thuat.html
+HTTP Error 404: Not Found
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chu-tich-tp-hcm-bv-cho-ray-khong-de-xay-ra-nhu-bv-bach-mai-629396.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/quang-ninh-cach-ly-toan-bo-xe-khach-cho-1-du-hoc-sinh-co-bieu-hien-sot-627754.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/tan-son-nhat-cang-suc-chong-un-tac-trong-lan-ngoai-san-bay-608822.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/be-gai-4-tuoi-roi-tu-tang-cao-chung-cu-star-tower-tu-vong-608808.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/pho-thu-tuong-truong-hoa-binh-tham-tang-qua-gia-dinh-chinh-sach-tai-quang-tri-608757.html
+Error: The read operation timed out
+Error from url: https://vietnamnet.vn/vn/thoi-su/chinh-tri/nang-cao-chat-luong-xet-xu-khong-de-bo-lot-toi-pham-606803.html

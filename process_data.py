@@ -4,8 +4,8 @@ import gensim
 import threading
 import time
 
-def tokenizer_word(path, save_dir):
-    list_fn = os.listdir(path)
+def tokenizer_word(data_dir, category, save_dir):
+    list_fn = os.listdir(os.path.join(data_dir, category))
     file_train = os.path.join(save_dir, "Train", "{}.txt".format(category))
     file_test = os.path.join(save_dir, "Test", "{}.txt".format(category))
 
@@ -48,7 +48,7 @@ def main():
     list_category = os.listdir(data_dir)
     for cate in list_category:
         path = os.path.join(data_dir, cate)
-        thead = threading.Thread(target=tokenizer_word, args=(path,save_dir))
+        thead = threading.Thread(target=tokenizer_word, args=(data_dir, cate, save_dir))
         thead.start()
         time.sleep(5)
 

@@ -48,7 +48,7 @@ def main():
     list_category = os.listdir(data_dir)
     for cate in list_category:
         path = os.path.join(data_dir, cate)
-        thead = threading.Thead(target=tokenizer_word, args=(path,save_dir))
+        thead = threading.Thread(target=tokenizer_word, args=(path,save_dir))
         thead.start()
         time.sleep(5)
 

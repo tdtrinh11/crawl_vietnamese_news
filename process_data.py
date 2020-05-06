@@ -4,10 +4,16 @@ import gensim
 import threading
 import time
 
-def tokenizer_word(data_dir, category, save_dir):
+def tokenizer_word(data_dir, category, save_dir, sw_dir):
     list_fn = os.listdir(os.path.join(data_dir, category))
     file_train = os.path.join(save_dir, "Train", "{}.txt".format(category))
     file_test = os.path.join(save_dir, "Test", "{}.txt".format(category))
+
+    # lay stopwords tu file
+    with open(sw_dir, "r") as f:
+        stopwords = f.readlines()
+    for i in range(len(stopwords)):
+        stopwords[i] = stopwords[i].strip()
 
     # tao train file, test file theo chu de
     with open(file_train, "w"): pass
@@ -23,6 +29,7 @@ def tokenizer_word(data_dir, category, save_dir):
         content = " ".join(content)
         content = ViTokenizer.tokenize(content)
         content = gensim.utils.simple_preprocess(content)
+        content = [w for w in content if not w in stopwords]
         content = " ".join(content)
         if i < mid:
             with open(file_train, "a") as f:
@@ -44,11 +51,12 @@ def main():
     project_dir = os.getcwd()
     data_dir = os.path.join(project_dir, "news_data")
     save_dir = os.path.join(project_dir, "predata")
+    sw_dir = os.path.join(project_dir, "stopwords")
 
     list_category = os.listdir(data_dir)
     for cate in list_category:
         path = os.path.join(data_dir, cate)
-        thead = threading.Thread(target=tokenizer_word, args=(data_dir, cate, save_dir))
+        thead = threading.Thread(target=tokenizer_word, args=(data_dir, cate, save_dir, sw_dir))
         thead.start()
         time.sleep(5)
 

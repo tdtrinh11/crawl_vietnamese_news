@@ -34,7 +34,7 @@ def tokenizer_word(data_dir, category, save_dir, sw_dir):
         if i < mid:
             with open(file_train, "a") as f:
                 f.write(content)
-                f.write("/n")
+                f.write("\n")
         elif i == mid:
             with open(file_train, "a") as f:
                 f.write(content)
@@ -45,7 +45,7 @@ def tokenizer_word(data_dir, category, save_dir, sw_dir):
             else:
                 with open(file_test, "a") as f:
                     f.write(content)
-                    f.write("/n")
+                    f.write("\n")
 
 def main():
     project_dir = os.getcwd()

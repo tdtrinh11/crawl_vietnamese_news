@@ -47,3 +47,6 @@ def main():
 	data = tfidf.vectorizer.tranform(X_train)
 	print(data[:5])
 	tfidf.save_vocab("./Model/tfidf1.pkl")
+
+if __name__ == '__main__':
+	main()

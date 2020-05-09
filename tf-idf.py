@@ -2,8 +2,8 @@ from load_data import LoadData
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pickle
 
-TRAIN_DATA = "/home/tdtrinh11/code/craw_vietnamese_news/predata/Train"
-TEST_DATA = "/home/tdtrinh11/code/craw_vietnamese_news/predata/Test"
+TRAIN_DATA = "/home/tdtrinh11/code/crawl_vietnamese_news/predata/Train"
+TEST_DATA = "/home/tdtrinh11/code/crawl_vietnamese_news/predata/Test"
 
 X_train, y_train = LoadData(TRAIN_DATA, TEST_DATA).load_train()
 

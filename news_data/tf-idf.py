@@ -22,8 +22,9 @@ class TFIDF(object):
 		self.vectorizer = TfidfVectorizer(vocabulary=self.vocabulary, analyzer=self.analyzer, max_df=self.max_df, min_df=self.min_df,
 								max_features=self.max_features, ngram_range=self.ngram_range)
 
-	def fit(self, X_train):
-		self.vectorizer.fit(X_train)
+	def fit(self, data):
+		self.vectorizer.fit(data)
+		print("Fit data success")
 
 	def save_vocab(self, path):
 		try:
@@ -39,3 +40,10 @@ class TFIDF(object):
 		self.__init__(vocabulary=self.vocabulary, analyzer=self.analyzer, max_df=self.max_df, min_df=self.min_df,
 								max_features=self.max_features, ngram_range=self.ngram_range)
 		return True
+
+def main():
+	tfidf = TFIDF()
+	tfidf.fit(data=X_train)
+	data = tfidf.vectorizer.tranform(X_train)
+	print(data[:5])
+	tfidf.save_vocab("./Model/tfidf1.pkl")

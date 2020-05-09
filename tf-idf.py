@@ -36,7 +36,7 @@ class TFIDF(object):
 		return True
 
 	def load_model(self, path):
-		self.vacabulary = pickle.load(open(path, "rb"))
+		self.vocabulary = pickle.load(open(path, "rb"))
 		self.__init__(vocabulary=self.vocabulary, analyzer=self.analyzer, max_df=self.max_df, min_df=self.min_df,
 								max_features=self.max_features, ngram_range=self.ngram_range)
 		return True
@@ -44,7 +44,7 @@ class TFIDF(object):
 def main():
 	tfidf = TFIDF()
 	tfidf.fit(data=X_train)
-	data = tfidf.vectorizer.tranform(X_train)
+	data = tfidf.vectorizer.transform(X_train)
 	print(data[:5])
 	tfidf.save_vocab("./Model/tfidf1.pkl")
 

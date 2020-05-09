@@ -18,7 +18,7 @@ class TFIDF(object):
 		self.min_df = min_df
 		self.max_features = max_features
 		self.analyzer=analyzer
-		self.vacabulary=vocabulary
+		self.vocabulary=vocabulary
 		self.vectorizer = TfidfVectorizer(vocabulary=self.vocabulary, analyzer=self.analyzer, max_df=self.max_df, min_df=self.min_df,
 								max_features=self.max_features, ngram_range=self.ngram_range)
 

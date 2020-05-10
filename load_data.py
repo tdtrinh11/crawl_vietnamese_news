@@ -18,7 +18,8 @@ class LoadData(object):
 		for fi in list_file:
 			with open(os.path.join(self.train_path, fi), "r") as f:
 				content = f.readlines()
-			train_X.extend(content)
+			for c in content:
+				train_X.append(c.strip())
 			train_y.extend([fi.split(".")[0] for _ in range(len(content))])
 
 		return train_X, train_y

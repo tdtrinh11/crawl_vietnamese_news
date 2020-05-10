@@ -3,6 +3,8 @@ from pyvi import ViTokenizer
 import gensim
 import threading
 import time
+from ftfy import fix_encoding
+import re
 
 def tokenizer_word(data_dir, category, save_dir, sw_dir):
     list_fn = os.listdir(os.path.join(data_dir, category))
@@ -27,6 +29,8 @@ def tokenizer_word(data_dir, category, save_dir, sw_dir):
         with open(fl, "r") as f:
             content = f.readlines()
         content = " ".join(content)
+        content = content.replace("\n", " ")
+        content = fix_encoding(content)
         content = ViTokenizer.tokenize(content)
         content = gensim.utils.simple_preprocess(content)
         content = [w for w in content if not w in stopwords]

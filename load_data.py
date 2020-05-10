@@ -38,10 +38,10 @@ class LoadData(object):
 			mid = int(len(content) / 4 +0.5)
 			for i,c in enumerate(content):
 				if i <= mid:
-					val_X.append(c)
+					val_X.append(c.strip())
 					val_y.append(fi.split(".")[0])
 				else:
-					test_X.append(c)
+					test_X.append(c.strip())
 					test_y.append(fi.split(".")[0])
 
 		return val_X, val_y, test_X, test_y

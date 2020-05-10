@@ -31,7 +31,7 @@ class TFIDF(object):
 		try:
 			pickle.dump(self.vectorizer.vocabulary_, open(path, "wb"))
 		except Exception as e:
-			print("error in save_vocab()\n")
+			print("error in save_vocab()")
 			print(e)
 			return False
 		return True

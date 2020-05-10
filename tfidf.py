@@ -12,14 +12,15 @@ class TFIDF(object):
 	compute tf-idf
 	"""
 	def __init__(self, ngram_range=(1,1), max_df=1.0, vocabulary=None,
-		min_df=1, max_features=None, analyzer='word'):
+				min_df=1, max_features=None, analyzer='word'):
 		self.ngram_range = ngram_range
 		self.max_df = max_df
 		self.min_df = min_df
 		self.max_features = max_features
 		self.analyzer=analyzer
 		self.vocabulary=vocabulary
-		self.vectorizer = TfidfVectorizer(vocabulary=self.vocabulary, analyzer=self.analyzer, max_df=self.max_df, min_df=self.min_df,
+		self.vectorizer = TfidfVectorizer(vocabulary=self.vocabulary, analyzer=self.analyzer, 
+								max_df=self.max_df, min_df=self.min_df,
 								max_features=self.max_features, ngram_range=self.ngram_range)
 
 	def fit(self, data):

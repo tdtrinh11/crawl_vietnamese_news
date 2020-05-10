@@ -2,11 +2,6 @@ from load_data import LoadData
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pickle
 
-TRAIN_DATA = "/home/tdtrinh11/code/crawl_vietnamese_news/predata/Train"
-TEST_DATA = "/home/tdtrinh11/code/crawl_vietnamese_news/predata/Test"
-
-X_train, y_train = LoadData(TRAIN_DATA, TEST_DATA).load_train()
-
 class TFIDF(object):
 	"""
 	compute tf-idf
@@ -27,6 +22,9 @@ class TFIDF(object):
 		self.vectorizer.fit(data)
 		print("Fit data success")
 
+	def transform(self, data):
+		return self.vectorizer.transform(data)
+
 	def save_vocab(self, path):
 		try:
 			pickle.dump(self.vectorizer.vocabulary_, open(path, "wb"))
@@ -42,10 +40,15 @@ class TFIDF(object):
 								max_features=self.max_features, ngram_range=self.ngram_range)
 		return True
 
+TRAIN_DATA = "/home/tdtrinh11/code/crawl_vietnamese_news/predata/Train"
+TEST_DATA = "/home/tdtrinh11/code/crawl_vietnamese_news/predata/Test"
+
+X_train, y_train = LoadData(TRAIN_DATA, TEST_DATA).load_train()
+
 def main():
 	tfidf = TFIDF()
 	tfidf.fit(data=X_train)
-	data = tfidf.vectorizer.transform(X_train)
+	data = tfidf.transform(X_train)
 	print(data[:5])
 	tfidf.save_vocab("./Model/tfidf1.pkl")
 

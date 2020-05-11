@@ -20,6 +20,7 @@ class TFIDF(object):
 
 	def fit(self, data):
 		self.vectorizer.fit(data)
+		self.vocabulary = self.vectorizer.vocabulary_
 		print("Fit data success")
 
 	def transform(self, data):
@@ -27,7 +28,7 @@ class TFIDF(object):
 
 	def save_vocab(self, path):
 		try:
-			pickle.dump(self.vectorizer.vocabulary_, open(path, "wb"))
+			pickle.dump(self.vocabulary, open(path, "wb"))
 		except Exception as e:
 			print("error in save_vocab()")
 			print(e)

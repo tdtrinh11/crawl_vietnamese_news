@@ -14,9 +14,10 @@ class TFIDF(object):
 		self.max_features = max_features
 		self.analyzer=analyzer
 		self.vocabulary=vocabulary
-		self.vectorizer = TfidfVectorizer(vocabulary=self.vocabulary, analyzer=self.analyzer, 
+		self.vectorizer = TfidfVectorizer(analyzer=self.analyzer, 
 								max_df=self.max_df, min_df=self.min_df,
 								max_features=self.max_features, ngram_range=self.ngram_range)
+		self.vectorizer.vocabulary_ = self.vocabulary
 
 	def fit(self, data):
 		self.vectorizer.fit(data)
@@ -39,6 +40,7 @@ class TFIDF(object):
 		self.vocabulary = pickle.load(open(path, "rb"))
 		self.__init__(vocabulary=self.vocabulary, analyzer=self.analyzer, max_df=self.max_df, min_df=self.min_df,
 								max_features=self.max_features, ngram_range=self.ngram_range)
+		
 		return True
 
 TRAIN_DATA = "/home/tdtrinh11/code/crawl_vietnamese_news/predata/Train"

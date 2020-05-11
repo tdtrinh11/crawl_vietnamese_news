@@ -6,30 +6,32 @@ class TFIDF(object):
 	"""
 	compute tf-idf
 	"""
-	def __init__(self, ngram_range=(1,1), max_df=1.0, vocabulary=None,
+	def __init__(self, vectorizer=None, ngram_range=(1,1), max_df=1.0,
 				min_df=1, max_features=None, analyzer='word'):
 		self.ngram_range = ngram_range
 		self.max_df = max_df
 		self.min_df = min_df
 		self.max_features = max_features
 		self.analyzer=analyzer
-		self.vocabulary=vocabulary
+		self.vectorizer = vectorizer
+
+	def fit(self, data):
 		self.vectorizer = TfidfVectorizer(analyzer=self.analyzer, 
 								max_df=self.max_df, min_df=self.min_df,
 								max_features=self.max_features, ngram_range=self.ngram_range)
-		self.vectorizer.vocabulary_ = self.vocabulary
-
-	def fit(self, data):
 		self.vectorizer.fit(data)
-		self.vocabulary = self.vectorizer.vocabulary_
 		print("Fit data success")
 
 	def transform(self, data):
-		return self.vectorizer.transform(data)
-
-	def save_vocab(self, path):
 		try:
-			pickle.dump(self.vocabulary, open(path, "wb"))
+			return self.vectorizer.transform(data)
+		except Exception as e:
+			print("error in transform")
+			print(e)
+
+	def save_model(self, path):
+		try:
+			pickle.dump(self.vectorizer, open(path, "wb"))
 		except Exception as e:
 			print("error in save_vocab()")
 			print(e)
@@ -37,8 +39,8 @@ class TFIDF(object):
 		return True
 
 	def load_model(self, path):
-		self.vocabulary = pickle.load(open(path, "rb"))
-		self.__init__(vocabulary=self.vocabulary, analyzer=self.analyzer, max_df=self.max_df, min_df=self.min_df,
+		self.vectorizer = pickle.load(open(path, "rb"))
+		self.__init__(vectorizer=self.vectorizer, analyzer=self.analyzer, max_df=self.max_df, min_df=self.min_df,
 								max_features=self.max_features, ngram_range=self.ngram_range)
 		
 		return True

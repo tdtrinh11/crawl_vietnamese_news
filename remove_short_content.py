@@ -19,7 +19,7 @@ def main():
 		list_fn = os.listdir(d)
 		for fn in list_fn:
 			path = os.path.join(d,fn)
-			remove_short_content(path, 60)
+			remove_short_content(path, 100)
 
 if __name__ == '__main__':
 	main()

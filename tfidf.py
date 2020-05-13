@@ -40,9 +40,9 @@ class TFIDF(object):
 
 	def load_model(self, path):
 		self.vectorizer = pickle.load(open(path, "rb"))
-		self.__init__(vectorizer=self.vectorizer, analyzer=self.analyzer, max_df=self.max_df, min_df=self.min_df,
-								max_features=self.max_features, ngram_range=self.ngram_range)
-		
+		params = self.vectorizer.get_params()
+		self.__init__(vectorizer=self.vectorizer, analyzer=params['analyzer'], max_df=params['max_df'], min_df=params['min_df'],
+								max_features=params['max_features'], ngram_range=params['ngram_range'])		
 		return True
 
 TRAIN_DATA = "/home/tdtrinh11/code/crawl_vietnamese_news/predata/Train"
@@ -55,7 +55,7 @@ def main():
 	tfidf.fit(data=X_train)
 	data = tfidf.transform(X_train)
 	print(data[:5])
-	tfidf.save_vocab("./Model/tfidf1.pkl")
+	tfidf.save_model("./Model/tfidf1.pkl")
 
 if __name__ == '__main__':
 	main()

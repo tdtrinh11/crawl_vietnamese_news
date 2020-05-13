@@ -35,6 +35,8 @@ def tokenizer_word(data_dir, category, save_dir, sw_dir):
         content = gensim.utils.simple_preprocess(content)
         content = [w for w in content if not w in stopwords]
         content = " ".join(content)
+        if len(content) < 100:
+            continue
         if i < mid:
             with open(file_train, "a", encoding="utf8") as f:
                 f.write(content)

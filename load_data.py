@@ -21,7 +21,7 @@ class LoadData(object):
 			for c in content:
 				train_X.append(c.strip())
 			train_y.extend([fi.split(".")[0] for _ in range(len(content))])
-
+		print("Load train set success")
 		return train_X, train_y
 
 	def load_test(self):
@@ -44,4 +44,5 @@ class LoadData(object):
 					test_X.append(c.strip())
 					test_y.append(fi.split(".")[0])
 
+		print("Load val, test set success")
 		return val_X, val_y, test_X, test_y

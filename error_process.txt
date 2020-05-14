@@ -1,7 +1,0 @@
-nohup: ignoring input
-Traceback (most recent call last):
-  File "process_data.py", line 56, in <module>
-    main()
-  File "process_data.py", line 51, in main
-    thead = threading.Thead(target=tokenizer_word, args=(path,save_dir))
-AttributeError: module 'threading' has no attribute 'Thead'

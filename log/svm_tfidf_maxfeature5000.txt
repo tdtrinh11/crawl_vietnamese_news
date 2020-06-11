@@ -1,0 +1,6 @@
+With k = rbf, c=1, gamma=0.001 have accuracy: 0.8285393573733689
+With k = rbf, c=10, gamma=0.001 have accuracy: 0.8695804686403816
+With k = poly, c=1, gamma=0.001 have accuracy: 0.766942612599972
+With k = poly, c=10, gamma=0.001 have accuracy: 0.7670127683457275
+With k = sigmoid, c=1, gamma=0.001 have accuracy: 0.8269257752209906
+With k = sigmoid, c=10, gamma=0.001 have accuracy: 0.8587063280482672

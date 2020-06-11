@@ -1,0 +1,10 @@
+With k = linear, c=1, gamma=0.001 have accuracy: 0.9077451943314158
+With k = linear, c=1, gamma=0.0001 have accuracy: 0.9077451943314158
+With k = linear, c=10, gamma=0.001 have accuracy: 0.9029746036200365
+With k = linear, c=10, gamma=0.0001 have accuracy: 0.9029746036200365
+With k = linear, c=100, gamma=0.001 have accuracy: 0.8815771011645854
+With k = linear, c=100, gamma=0.0001 have accuracy: 0.8815771011645854
+With k = linear, c=1000, gamma=0.001 have accuracy: 0.8686684439455591
+With k = linear, c=1000, gamma=0.0001 have accuracy: 0.8686684439455591
+With k = rbf, c=1, gamma=0.001 have accuracy: 0.8285393573733689
+With k = rbf, c=1, gamma=0.0001 have accuracy: 0.8271362424582573
